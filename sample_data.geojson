@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "name": "San Francisco",
+        "description": "A popular tourist destination."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2711, 37.8044]
+      },
+      "properties": {
+        "name": "Oakland",
+        "description": "Known for its vibrant art scene."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4196, 37.6879]
+      },
+      "properties": {
+        "name": "South San Francisco",
+        "description": "Located south of San Francisco."
+      }
+    }
+  ]
+}
