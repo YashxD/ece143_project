@@ -28,20 +28,19 @@ for page_name, page_display_name in pages.items():
 # Display the selected page content
 selected_page = st.session_state.current_page
 
-
+def examplegetfunction(start_date, end_date, from_TOD, to_TOD):
+    return pd.DataFrame(np.random.randn(1000, 2) / [250, 250] + [32.8812, -117.2344], columns=["lat", "lon"])
 
 if selected_page == "Theft_Map":
-    st.title("Thefts")
-    df = pd.DataFrame(
-    np.random.randn(1000, 2) / [250, 250] + [32.8812, -117.2344],
-    columns=["lat", "lon"],
-    )
-    st.map(df, size=3)
+    st.title("Theft Map")
+    
     end_date = datetime(2024,11,12)
     start_date = end_date - timedelta(days=5 * 365)  # Approximate 5 years back
     x = st.slider('Dates From', min_value= start_date, max_value=end_date, value=(start_date, end_date), format="YYYY-MM-DD")  # 👈 this is a widget
-    y = st.slider('From', min_value=time(0,0), max_value=time(23,59), value = (time(0,0)))
-    z = st.slider('To', min_value=time(0,0), max_value=time(23,59), value = (time(23,59)))
+    y = st.slider('From (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(0,0)))
+    z = st.slider('To (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(23,59)))
+    
+    st.map(examplegetfunction(1,1,1,1), size=3)
 
 elif selected_page == "PricevsTOD":
     st.title("Map Page")
