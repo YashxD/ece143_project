@@ -1,0 +1,839 @@
+marshal res hall : None
+7th college  bldg 3 : None
+argo hall : (32.8745162, -117.2416218)
+tuolumne apts : (32.8784078, -117.2431771)
+café ventanas : (32.8860312, -117.242574)
+seventh college  : (32.8879708, -117.2421264)
+structural and materials engineering bldg : (32.8800218, -117.2329402)
+parking lot p418 : None
+del sol apts : None
+price center  - starbucks : (32.8798977, -117.2363369)
+revelle argo : (32.8473676, -117.2412804)
+price center : (32.8797205, -117.2361952)
+trolley - ucsd health (voigt) : (32.881168, -117.2343605)
+price center target : (32.8798916, -117.2363115)
+structural engineering bldg : None
+south mesa : None
+nuevo  - capa : None
+canyon vista admin : (32.8838146, -117.2334419)
+leichtag building : (32.8767963, -117.2372406)
+warren hall  : None
+edu ii & literature building : None
+design & innovation bldg -  : None
+copa vida café : None
+thornton : None
+catalyst parking structure : None
+sixth college apartment : (32.8807011, -117.2420455)
+ledden auditorium : (32.87885540000001, -117.2416896)
+warren north   : None
+biomedical research facility 2 : (32.8744664, -117.2349451)
+podemos bldg : None
+europe hall / asia hall : (32.8854422, -117.2434779)
+one miramar street : (32.8737372, -117.2268607)
+applied physics & mathematics : None
+4715 voigt dr : (32.8801825, -117.2202466)
+revelle administration bldg -  : (32.8753781, -117.2418523)
+one miramar street, building 1 : (32.8737372, -117.2268607)
+tapestry north side : None
+hopkins parking structure : (32.8837791, -117.2394026)
+leichtag family foundation : (32.8767963, -117.2372406)
+va hospital : None
+harlan hall : (32.8848017, -117.2323582)
+tenaya hall -  : (32.8794203, -117.2428555)
+blacks beach : (32.8906575, -117.2534656)
+miramar street : (32.8735076, -117.2238704)
+canyon view aquatic & climbing wall : (32.8805864, -117.2318744)
+muir biology building : (32.8784187, -117.2410685)
+keeling apts : None
+center hall north  : (32.8778021, -117.2372517)
+voigt drive : (32.8811362, -117.2295642)
+sixth college market : (32.8807011, -117.2420455)
+sally t wongavery library : (32.8752695, -117.2369405)
+fan - fan - rw academic building : (32.8800633, -117.2409288)
+earth hall : None
+rita atkinson hall : (32.8824069, -117.2348172)
+catalyst parking garage : None
+middle earth lounge : (32.8852967, -117.2430528)
+structural and material engineering building : (32.8800218, -117.2329402)
+parking lot p602 : (32.8767197, -117.2350928)
+regents rd : (32.8552295, -117.2176209)
+dib makerspace/ lyman lane : (32.8793588, -117.2353782)
+scholars dr n : (32.8842874, -117.2424066)
+north america hall : (32.8847624, -117.243444)
+ campus medical center central plant : (32.8773757, -117.2250874)
+capa : None
+beagle hall - south  : (32.874122, -117.2426029)
+3869 miramar st : (32.8756465, -117.2221949)
+structural material & engineering bldg : (32.8800218, -117.2329402)
+asante hall  : (32.8843065, -117.2417832)
+warren goldberg : None
+center hall -  : (32.8775468, -117.2374084)
+parking lot 418 : None
+lot p702 : (32.881674, -117.2237008)
+recreation gymnasium : None
+sixth college apartments : (32.8807011, -117.2420455)
+mesa nueva - ola parking structure : (32.87543000000001, -117.22394)
+biomedical research facility ii : (32.8744664, -117.2349451)
+one miramar st blgd 3 : (32.8735076, -117.2238704)
+one miramar street - building 4 : (32.8737372, -117.2268607)
+humanities & social sciences building : None
+3811 miramar st : (32.8750164, -117.2236212)
+seventh college : (32.8879708, -117.2421264)
+engineering building unit 3b : None
+one miramar st : (32.8737372, -117.2268607)
+voigt dr/ matthew ln : (32.8811362, -117.2295642)
+rita atkinson residences : (32.872898, -117.2353067)
+ebu1 : (32.8820551, -117.2354243)
+lyman lane : (32.8793588, -117.2353782)
+sixth market - mosaic : None
+uc san diego bookstore : (32.8794408, -117.2369353)
+muir college drive : (32.8809823, -117.2424177)
+marshall uppers apts g : (32.8833158, -117.2417072)
+structural and material engineering bldg : (32.8800218, -117.2329402)
+charles david keeling apt 1 : None
+canyon vista dining hall : None
+warren commuter lounge : None
+  : None
+lot p406 : (32.8766518, -117.2309678)
+podemos building : (32.873384, -117.2416521)
+rita atkinson hall  : (32.8824069, -117.2348172)
+scholars parking structure : (32.8798209, -117.2415082)
+price center - triton statue : (32.8797205, -117.2361952)
+pangea parking structure : (32.8842556, -117.2431062)
+osler ln : None
+la jolla del sol apartments : (32.8655512, -117.2230338)
+keeling building 3 : None
+south mesa apts : None
+pepper canyon hall : (32.8783769, -117.2337607)
+marshall lowers : (32.8826158, -117.239135)
+nuevo  - viento : None
+ntpll - kaleidoscope : (32.8806688, -117.2430773)
+john's place & market : None
+ebu 1 south bicycle rack : None
+thurgood marshall : (32.8837571, -117.2415999)
+seventh  tower : None
+ntpll - tapestry : (32.8799203, -117.2429952)
+thurgood marshall administration offices : None
+marshall college : (32.8831443, -117.2431716)
+mesa apartments south : None
+uc san diego campus : (32.881168, -117.2343605)
+sixth college / blue bowl restaurant : (32.8807011, -117.2420455)
+showa ramen - rw academic buildong : (32.8809105, -117.2408997)
+mandell weiss ln : (32.8720213, -117.240596)
+africa hall  : (32.886143, -117.2434803)
+ntpll - scholars parking : (32.8799203, -117.2429952)
+tuolomne apts : (32.8784078, -117.2431771)
+russell lane : (32.8784479, -117.2343121)
+rita atkinson  : (32.872898, -117.2353067)
+seventh college  #8 : (32.8879708, -117.2421264)
+trolley - central campus station () : (32.878353, -117.231842)
+catalyst : None
+russel ln : (32.8784479, -117.2343121)
+pacific hall : (32.8760243, -117.2423962)
+regents road : (32.8552295, -117.2176209)
+sixth college lobby -  : (32.8807011, -117.2420455)
+piedra building : None
+regent road : (32.8552295, -117.2176209)
+peterson ramp : None
+biology building : None
+franklin antonio hall : (32.8835013, -117.2349145)
+one miramar bldg 34 : (32.8737372, -117.2268607)
+goldberg hall   : (32.8830809, -117.2338457)
+geisel library  : (32.881092, -117.2375659)
+geneva hall : (32.8855413, -117.2420642)
+pepper canyon  apts : (32.8775872, -117.2306142)
+keeling apartments : (32.8737556, -117.2433215)
+ucsd medical facility - hillcrest : None
+sixth college : (32.8807011, -117.2420455)
+scholars dr south : (32.875467, -117.243133)
+pharmaceutical sciences building : (32.8744378, -117.2358516)
+conrad presbys  -  : None
+10285 north point ln : (32.8903814, -117.2404945)
+blake hall : (32.8749765, -117.2417333)
+natural science bldg  : None
+scholars drive - south : (32.875467, -117.243133)
+roosevelt college : (32.8861013, -117.2422898)
+north center hall  : (32.8778021, -117.2372517)
+mesa apartments central : (32.87382780000001, -117.2215649)
+equality ln : (32.8833264, -117.2341912)
+one miramar st bldg 1 : (32.8737372, -117.2268607)
+central mesa apts -  : (32.87382780000001, -117.2215649)
+osler lane : (32.8747731, -117.2366032)
+rec gym -  : None
+the village  : None
+challenger hall : (32.8741459, -117.2423273)
+9865 towne centre drive : (32.8862471, -117.2149726)
+sixth college apts : (32.8807011, -117.2420455)
+3991 health sciences dr : (32.8801142, -117.2201149)
+theatre district dr. : (32.8725215, -117.2405004)
+charles david keeling apts : None
+central campus trolley station : None
+greenhouse lane : (32.8832575, -117.2299059)
+jacobs hall : (32.8816988, -117.2352306)
+mesa nueva building a : (32.8756502, -117.2224578)
+mayer hall : (32.8754409, -117.239888)
+rimac : (32.8851041, -117.2404977)
+eco flat  bldg 4 : (32.8880778, -117.2417602)
+goldberg hall : (32.8830809, -117.2338457)
+center for neural circuits and behavior : (32.8757471, -117.2385281)
+lebon drive : (32.8678861, -117.2247509)
+mesa - south : None
+9101 gilman dr : (32.8734827, -117.2376881)
+bates hall : (32.8839542, -117.23213)
+science and engineering bldg : None
+central mesa apts : (32.87382780000001, -117.2215649)
+10065 scholars drive north : (32.8869643, -117.2417855)
+pines restaurant : None
+social sciences research building : (32.8807041, -117.2400766)
+1 miramar street : (32.8737372, -117.2268607)
+thurgood marshall res hall : None
+3487 sixth college ln -  : (32.8807011, -117.2420455)
+school of medicine - building 3 : (32.8754542, -117.2336944)
+student services center : (32.8785203, -117.235886)
+athena parking : (32.8792952, -117.2217254)
+canyonview aquatic : (32.8806654, -117.2318784)
+trolley- central campus station : (32.878353, -117.231842)
+north torrey pines : None
+9610 scholars dr north : (32.8798463, -117.2426099)
+mandell weiss : (32.8720213, -117.240596)
+tamarack apartments : (32.8783854, -117.2423065)
+9192 regents rd : (32.8724753, -117.2251081)
+latin america hall  : (32.8851058, -117.2434705)
+peterson hall : (32.8799725, -117.2403292)
+redwood drive : (32.8703167, -117.246443)
+sandford medical education building : None
+lot 207 : None
+actri : (32.8789781, -117.2269864)
+parking lot p703 : (32.8800007, -117.2205947)
+structural materials engineering building : (32.8800218, -117.2329402)
+marshall field  side : None
+africa hall : (32.886143, -117.2434803)
+marshall residence hall p : (32.8829967, -117.2426633)
+la jolla village drive : (32.8704254, -117.2218461)
+nordstrom rack : None
+center hall  : (32.8775468, -117.2374084)
+cse bldg : (32.88180060000001, -117.2335235)
+3739 miramar st : (32.8749597, -117.2254004)
+price center -  -  : (32.8797205, -117.2361952)
+design and innovation bldg : (32.8794117, -117.2322377)
+cmme : (32.8767652, -117.237966)
+revelle college : (32.8716176, -117.2422521)
+lot 017 : None
+innovation ln foodworx : (32.878797, -117.230439)
+brisa : None
+north point ln : (32.8891672, -117.2408438)
+frankfurter hall  : (32.8846291, -117.2329765)
+commuter lounge -  : (32.8748272, -117.2414595)
+cognitive sciences building : (32.8805813, -117.2395409)
+canyon vista - bicycle rack : None
+brisa - 4th floor : None
+matthews apartments a : (32.878646, -117.2310505)
+goldberg hall  locker : (32.8830809, -117.2338457)
+rw academic building - copa vida café : None
+social sciences building : None
+medical teaching facility : (32.8756041, -117.2355062)
+europe & asia hall  : None
+leichtag biomedical research : (32.8767963, -117.2372406)
+keeling apts, bldg 3 : (32.8737556, -117.2433215)
+cognitive science building : (32.8805813, -117.2395409)
+pepper canyon  apartment : (32.8775872, -117.2306142)
+scholars dr n. : (32.8842874, -117.2424066)
+blacks beach gate : (32.8906575, -117.2534656)
+ridge walk academic building : (32.8816297, -117.2407435)
+moores cancer center : (32.8786467, -117.2230577)
+social science bldg : None
+canyonview pool : (32.8806654, -117.2318784)
+wells fargo hall : (32.88696, -117.2417952)
+rimac - liontree arena : (32.8852786, -117.2391227)
+6 scholars dr n : (32.8875993, -117.2420287)
+marshall upper apts m : (32.8833158, -117.2417072)
+marshall field : (32.8822091, -117.2416949)
+neighborhood - tdll : None
+uc san diego health - hillcrest : None
+keeling apartment : None
+vela : None
+hopkins dr : (32.8862472, -117.2386908)
+village  : None
+preuss school : (32.8826135, -117.2220548)
+10116 scholars dr n : (32.8873161, -117.2426326)
+nuevo  tierra : None
+jacobs school of engineering : (32.8815676, -117.2354946)
+kaleidoscope res hall : None
+natural science building : (32.8752882, -117.2423111)
+serf building : (32.8796933, -117.2350692)
+main gymnasium : (32.8771494, -117.2412479)
+ucsd residential area : (32.881168, -117.2343605)
+europe hall : (32.8854422, -117.2434779)
+upper marshal apts : None
+mosaic sixth college : (32.8807011, -117.2420455)
+ campus office building : None
+price center  -  : (32.8797205, -117.2361952)
+africa hall - ellie's garden : (32.8860023, -117.2434953)
+9242 central mesa apts : None
+seventh college  #1 : (32.8879708, -117.2421264)
+beagle hall : (32.874122, -117.2426029)
+tamarack apts : (32.8783854, -117.2423065)
+one miramar st bldg 3 : (32.8737372, -117.2268607)
+marshall upper apartments : (32.8833158, -117.2417072)
+warren apts - goldberg : None
+gilman and myers bus stop : None
+health sciences drive : (32.878625, -117.2204098)
+seventh college  building 3 : (32.8874454, -117.2427202)
+viento : None
+social sciences bldg : None
+9334 redwood dr : (32.869716, -117.2469664)
+nuevo  - tierra : None
+south side of price center : (32.8797205, -117.2361952)
+warren activity center  : (32.8825521, -117.2333133)
+nuevo  - brisa : None
+camp snoopy residence hall : None
+halicioglu data center : (32.8805631, -117.2338242)
+gymnasium : None
+muir ln : (32.8796794, -117.2414158)
+engineering building unit 2 : (32.8811569, -117.2330257)
+middle earth hall : None
+computer sciences and engineering building : None
+n scholars dr : (32.875467, -117.243133)
+price center  - target : (32.8798916, -117.2363115)
+peterson hall   : (32.8799725, -117.2403292)
+design & innovations bldg : None
+nuevo  : None
+social sciences bldg covered parking : None
+scholars ln : (32.878088, -117.2423827)
+exploration drive : (32.8809823, -117.2424177)
+seventh college  #7 : (32.8879708, -117.2421264)
+9388 redwood dr : (32.8705441, -117.2467368)
+torrey pines, la jolla : (32.8917728, -117.2404079)
+canyon vista admin & dining facility : (32.8838146, -117.2334419)
+ebu 2 : (32.8811569, -117.2330257)
+ucsd main gym : (32.8771494, -117.2412479)
+canyonview rec/athletics administration : None
+muir college dr : (32.8809823, -117.2424177)
+argo hall / discovery hall : (32.8745162, -117.2416218)
+atkinson hall : (32.8824069, -117.2348172)
+computer science & engineering building : None
+muir college : (32.8809823, -117.2424177)
+urey 1220 : None
+elenore roosevelt res life : None
+seventh college bldg 7 : (32.8879708, -117.2421264)
+central hall north  : (32.8778021, -117.2372517)
+keeling apartments gym : (32.8737556, -117.2433215)
+telemedicine  rack : None
+torrey pines scenic drive : (32.8882992, -117.2464895)
+1 miramar st : (32.8737372, -117.2268607)
+mesa apartments - south : None
+lot 101 : None
+ucsd central campus trolley : (32.878353, -117.231842)
+thurgood marshall res halls : None
+ucsd central campus trolley station : (32.878353, -117.231842)
+scholars drive n : (32.8842874, -117.2424066)
+discovery way : (32.8700627, -117.2478957)
+goldberg apartments : None
+la jolla del sol : (32.8655512, -117.2230338)
+1 miramar st, bldg 1 : (32.8737372, -117.2268607)
+ucsd police : (32.8826508, -117.2296864)
+douglas hall -  : (32.8832565, -117.232967)
+warren apartments : (32.8822443, -117.2341198)
+del sol apartments : None
+  of lion tree : None
+scholars dr s : (32.875467, -117.243133)
+gilman dr : (32.8648237, -117.2364128)
+scholars lane : (32.878088, -117.2423827)
+one miramar st, bldg 1 : (32.8737372, -117.2268607)
+ntpll - kaleidoscope  : (32.8806688, -117.2430773)
+met building : None
+pangea dr : (32.8838111, -117.2433318)
+9500 gilman dr : (32.8751977, -117.2409942)
+avery wong library : (32.8752695, -117.2369405)
+conrad preby's music center : (32.8778953, -117.2347713)
+warren apts - douglas hall : (32.8832565, -117.232967)
+lot 510 : None
+foodworx dining room : (32.878797, -117.230439)
+scholars drive - north : (32.8842874, -117.2424066)
+nuevo  - exchange : None
+price center / target : (32.8798916, -117.2363115)
+seventh college  #3 : (32.8879708, -117.2421264)
+brennan hall  cage : (32.8829006, -117.2328758)
+seventh college , bldg 1 : (32.8879708, -117.2421264)
+pepper canyon : (32.8786572, -117.2292423)
+muir commons : None
+molli and arthur wagner dance building : (32.871811, -117.2400632)
+plant power - catalyst : None
+ebu2 : (32.8811569, -117.2330257)
+computer science and engineering building : (32.88180060000001, -117.2335235)
+9321 discovery wy : (32.8698095, -117.2476095)
+pepper canyon lodge : (32.8783769, -117.2337607)
+lebon dr : (32.8678861, -117.2247509)
+arbor parking structure - hillcrest : None
+ntpll - parking : None
+tenaya hall residence : (32.8794203, -117.2428555)
+trolley- central campus stop : None
+campus services complex a : (32.8822204, -117.2295347)
+t. denny sanford medical education and telemedicine center : (32.8752113, -117.2347748)
+64 degrees -  : (32.8747459, -117.2420341)
+muir biology and applied physics : None
+pepper canyon south - parking lot : (32.8786572, -117.2292423)
+warren field : (32.8802422, -117.2304993)
+7th college building : None
+voigt lane : (32.8811362, -117.2295642)
+gilman dr/ myers dr : (32.876992, -117.2360623)
+laurel extension : None
+pangea parking lot : (32.8842556, -117.2431062)
+pepper canyon ln : (32.8786572, -117.2292423)
+rimac annex : (32.8857682, -117.2404605)
+hopkins drive : (32.8862472, -117.2386908)
+structural and material engineering : (32.8800218, -117.2329402)
+matthews lane : (32.8801283, -117.2344967)
+warren literature bldg : None
+pines dining hall : None
+warren lecture hall  : (32.8805918, -117.2344208)
+rupertus ln : (32.8783503, -117.2360494)
+kaleidescope -  : None
+4168 front st, lot p964 : None
+oceanview terrace : (32.8831037, -117.2427668)
+charles david keeling apartments : None
+center hall - outside  : (32.8778021, -117.2372517)
+sixth market : (32.8800917, -117.2422501)
+leichtag family foundation biomed : (32.8767963, -117.2372406)
+neighborhood - warren : None
+eleanor roosevelt college : (32.8861013, -117.2422898)
+seventh college  bldg 3 : (32.8879708, -117.2421264)
+serf bldg  : None
+lyman avenue : (32.8792546, -117.2361174)
+library walk : (32.8787741, -117.2375612)
+seventh college  bldg b : (32.8879708, -117.2421264)
+lion tree arena : (32.8852786, -117.2391227)
+design and innovation lane : (32.8792475, -117.2316562)
+gilman parking structure : (32.8773774, -117.2338526)
+cater hall : None
+tdlln - podemos : None
+structural & material engineering building : (32.8800218, -117.2329402)
+voigt dr / scripps memorial hospital : (32.882508, -117.2243782)
+central hall : (32.8778021, -117.2372517)
+nuevo  - piedra : None
+natural sciences bldg : None
+sally t. wongavery library : (32.8752695, -117.2369405)
+geisel library on hopkins drive : (32.881092, -117.2375659)
+cala - 1st floor lobby : None
+café ventanas loading dock : (32.8860312, -117.242574)
+7th college : None
+sme building : (32.8800218, -117.2329402)
+design and innovation bldg. : (32.8794117, -117.2322377)
+conrad prebys music center : (32.8778953, -117.2347713)
+starbucks coffee : None
+center for memory and recording research : (32.88049, -117.2354682)
+1 miramar south : (32.8737372, -117.2268607)
+seventh college  tower : (32.8879708, -117.2421264)
+residence hall : None
+one miramar st bldg 4 : (32.8737372, -117.2268607)
+black apartments : None
+9250 regents rd : (32.8735796, -117.2205321)
+matthews apt d -  : (32.878646, -117.2310505)
+galathea hall : (32.8738934, -117.2416565)
+computer science & engineering bldg : None
+price center south : (32.8797205, -117.2361952)
+york hall -  station : (32.8745478, -117.2400077)
+3393 lebon dr : (32.8649728, -117.2236782)
+seventh college  1 : (32.8879708, -117.2421264)
+64 degrees : (32.8747459, -117.2420341)
+blake / argo hall  : (32.8745162, -117.2416218)
+north torrey pines rd : None
+lot 601 -  : None
+canyon vista : None
+trolley - central campus : None
+mesa nueva fitness facility bicycle rack : (32.8756502, -117.2224578)
+camp snoopy : (32.8779363, -117.2328973)
+mesa verde hall : (32.8860192, -117.2414146)
+spanos athletic training center : None
+scholars dr : (32.875467, -117.243133)
+gilman dr / front of yogurt world : (32.8792265, -117.2360485)
+the trove -  : None
+earth hall north : (32.8856567, -117.2428338)
+galbraith hall walkway : (32.8737102, -117.2409723)
+applied physics and athletics : None
+north point lane - near trailhead : (32.8891672, -117.2408438)
+the market at seventh college : (32.8879708, -117.2421264)
+gilman dr / myers dr : (32.876992, -117.2360623)
+gilman dr / myers  : (32.8769328, -117.2355441)
+lebron drive : None
+science & engineering research facility : None
+gilman drive : (32.8648237, -117.2364128)
+residence hall  : None
+piedra - 9th floor  hangers : None
+health sciences dr : (32.878625, -117.2204098)
+price center  - the trove : (32.8797205, -117.2361952)
+warren college - black hall : (32.8822443, -117.2341198)
+medical education and telemedicine : (32.8751762, -117.2347253)
+artesa : None
+seventh college bldg 3 : (32.8879708, -117.2421264)
+sulpizio cardiovascular center : (32.8788723, -117.225894)
+keeling apts south tower : (32.8737556, -117.2433215)
+ridge walk academic complex : (32.8803878, -117.2410734)
+catalyst building : (32.8804431, -117.2416338)
+scholars drive : (32.875467, -117.243133)
+thurgood marshall upper apts : None
+rebecca and john moores cancer center : None
+theatre district : (32.8725215, -117.2405004)
+pangea drive : (32.8838111, -117.2433318)
+one miramar street bldg 2 : (32.8737372, -117.2268607)
+tioga hall : (32.8790439, -117.2433669)
+center for novel therapeutics : (32.8769868, -117.2208431)
+central campus  : None
+cala : None
+mesa nueva - artesa 4th floor : (32.87478000000001, -117.22222)
+russell ln : (32.8784479, -117.2343121)
+north torrey pines parking lot : None
+mesa nueva bldg a : (32.8756502, -117.2224578)
+applied mathematics and physics : None
+warren brennan hall : None
+douglas apartments : None
+biomedical sciences -  : (32.8747731, -117.2366032)
+target : None
+mesa nueva - exchange : (32.8756502, -117.2224578)
+mesa nueva building b : (32.8756502, -117.2224578)
+piedra apartments : None
+cse building : (32.88180060000001, -117.2335235)
+price center  : (32.8797205, -117.2361952)
+3192 biomedical sciences way : (32.8753679, -117.233678)
+the village at torrey pines : (32.8879573, -117.2425452)
+biomedical research facility : (32.8744664, -117.2349451)
+the village  -  : None
+revelle apts bldg 1 : (32.8753781, -117.2418523)
+seventh college,  tower : (32.8879708, -117.2421264)
+central campus trolley : None
+canyonview : None
+9330 eucalyptus lane : (32.8770573, -117.2399695)
+black hall -  : (32.8821063, -117.2327146)
+fan-fan rw academic building : (32.8800633, -117.2409288)
+ucsd central campus station : (32.878353, -117.231842)
+natural sciences building : (32.8752882, -117.2423111)
+stewart hall : (32.8841688, -117.2324735)
+scholars dr n / muir ln : (32.8796692, -117.2423557)
+jacobs medical center : (32.8777169, -117.2262295)
+old town : None
+sixth college res hall -  : (32.8807011, -117.2420455)
+applied physics and mathematics : (32.8795424, -117.2411535)
+meteor hall : (32.8738214, -117.2419498)
+tapestry  locker : None
+campus emergency services building : None
+warren college : (32.8822443, -117.2341198)
+ntpll - mosaic : (32.8799202, -117.2419202)
+catalyst parking structure -  : None
+meyers & gilman dr - bus stop : (32.8648237, -117.2364128)
+mesa nueva - artesa : (32.87478000000001, -117.22222)
+via allicante : (32.8611913, -117.2339112)
+tioga residence hall : None
+ebu ii building : (32.8811569, -117.2330257)
+camp snoopy residential hall : None
+villa la jolla dr/ gilman dr : (32.8641692, -117.236303)
+engineering bldg 2 : None
+charles david keeling apts 3 : (32.8737556, -117.2433215)
+computer engineering bldg : None
+voigt dr/ matthews ln : (32.8803733, -117.2329904)
+ladden hall : None
+3350 innovation lane : (32.8792475, -117.2316562)
+marshall uppers : (32.8833158, -117.2417072)
+stein clinical research building -  : (32.875958, -117.2340132)
+uc san diego health - la jolla : (32.8704434, -117.2343168)
+solis hall : (32.8809145, -117.2397849)
+pepper canyon drive/ voigt drive : (32.8812707, -117.2292672)
+argo hall  : (32.8745162, -117.2416218)
+structural & engineering bldg : None
+canyon view pool : (32.8806654, -117.2318784)
+10010 n. torrey pines rd. : (32.8865305, -117.2442547)
+thornton pavilion : (32.874452, -117.2220005)
+warren lecture hall : (32.8805918, -117.2344208)
+price center plaza : (32.8794633, -117.2370359)
+showa ramen : (32.8809105, -117.2408997)
+podemos : None
+galathea hall  : (32.8738934, -117.2416565)
+keeling building : None
+revelle - housing, dining & hospitality bldg : (32.8745634, -117.2431431)
+tapestry : None
+otterson hall : (32.8865929, -117.2411101)
+ledden auditorium  : (32.87885540000001, -117.2416896)
+the bistro : None
+astilla : None
+trolley - central campus station : (32.878353, -117.231842)
+one miramar street, bldg 2 : (32.8737372, -117.2268607)
+nuevo  - porton : None
+peppery canyon apartments : (32.8775872, -117.2306142)
+kneeling north tower : (32.8742437, -117.2430393)
+lot 506 : None
+campus point parking structure e : (32.8859811, -117.221339)
+price center/target : (32.8798916, -117.2363115)
+ucsd train station : (32.881168, -117.2343605)
+matthews bldg b : None
+center hall : (32.8775468, -117.2374084)
+stein clinical research bldg. : (32.8968497, -117.2424287)
+thurgood marshall res hall p : None
+matthews apts b : (32.878646, -117.2310505)
+visual arts facility : None
+pepper canyon lane : (32.8786572, -117.2292423)
+price center south expansion : (32.8797205, -117.2361952)
+1 miramar street, building 1 : (32.8737372, -117.2268607)
+1 miramar parking structure : None
+lot 309 : None
+9155 mandell weiss : (32.8721027, -117.239938)
+school of medicine : None
+seventh college  bldg 8 : None
+liontree arena : (32.8852786, -117.2391227)
+target  : None
+tuolomne apartments : (32.8784078, -117.2431771)
+marshal lower o bldg : (32.8826158, -117.239135)
+skaggs pharmaceutical sciences building : (32.8744378, -117.2358516)
+humanities and social sciences : None
+building 2  cage : None
+biomedical sciences wy : (32.8747731, -117.2366032)
+ola parking garage -  : None
+rady school of medicine : (32.8869643, -117.2417855)
+the trove : None
+center lecture hall : None
+center for neural circuits & behavior : None
+innovation lane : (32.8792475, -117.2316562)
+douglas hall : (32.8832565, -117.232967)
+atlantis hall : (32.87385769999999, -117.2424379)
+central campus station : (32.878353, -117.231842)
+9906 scholars dr north : (32.8853045, -117.2425095)
+theatre district drive : (32.8725215, -117.2405004)
+torrey pines center south - parking : (32.8905271, -117.2430509)
+rimac -  : (32.8851041, -117.2404977)
+one miramar st bldg : (32.8737372, -117.2268607)
+ucsd central campus trolley stop : (32.878353, -117.231842)
+elenore roosevelt college administration : (32.88613280000001, -117.2420287)
+mesa nueva - cala : (32.87565, -117.22219)
+1 miramar bldg 2 : None
+rita atkinson entrance  : (32.872898, -117.2353067)
+ under crouton's : None
+azad : None
+camp snoopy residence halls : (32.8779363, -117.2328973)
+seventh college bldg 6 : (32.8879708, -117.2421264)
+rady school of management : (32.8869643, -117.2417855)
+pangea parking : (32.8842556, -117.2431062)
+lecture hall : None
+ridge walk : (32.8816297, -117.2407435)
+1 miramar st bldg 1 : (32.8737372, -117.2268607)
+earth hall south : (32.8850022, -117.2428255)
+eucalyptus grove ln : (32.8754873, -117.2395158)
+ucsd bookstore : (32.8794408, -117.2369353)
+mesa nueva - artesa  : (32.87478000000001, -117.22222)
+la jolla village dr shopping center : (32.8704254, -117.2218461)
+9735 justice ln -  room : (32.8814623, -117.2322263)
+revelle meteor hall : (32.8738214, -117.2419498)
+argo hall and galathea : (32.87384910000001, -117.2416525)
+warren residential hall : (32.8839947, -117.2332494)
+north mandeville  : (32.8783593, -117.2390366)
+oceanview terrace - bridge : (32.8831037, -117.2427668)
+marshall res hall : (32.8829967, -117.2426633)
+urey hall : (32.8755628, -117.2410642)
+kaleidoscope : None
+mcgill hall : (32.8790201, -117.2420577)
+matthews ln : (32.8801283, -117.2344967)
+biomedical sciences building : (32.8765264, -117.2361206)
+erc : None
+piedra - 9th floor : None
+thurgood marshall ln/scholars dr north : (32.8837304, -117.2424096)
+ridgewalk academic building : (32.8816297, -117.2407435)
+torrey pines center - south : (32.8905271, -117.2430509)
+sequoyah hall : (32.8821398, -117.2405491)
+rimac  : (32.8851041, -117.2404977)
+kaleidoscope  : None
+canyon view aquatic & climbing facility : (32.8805864, -117.2318744)
+mesa nueva - viento : (32.8756502, -117.2224578)
+central mesa apartments : (32.87382780000001, -117.2215649)
+stein clinical research building : (32.875958, -117.2340132)
+voigt dr : (32.8811362, -117.2295642)
+487 grand theft : None
+giesel library : (32.881092, -117.2375659)
+trolley - la jolla health station : None
+seventh college  bldg 1 : (32.8879708, -117.2421264)
+ucsd police department : (32.8826508, -117.2296864)
+galathea  : (32.87384910000001, -117.2416525)
+seventh  building : None
+club med : None
+pulse : None
+9505 s scholars dr : (32.8794129, -117.2430125)
+latin america hall & north america hall : None
+osler parking structure : (32.8739818, -117.2373189)
+yogurt world : None
+ntpll - catalyst : (32.8807181, -117.2416333)
+san diego 92161 : (32.8758428, -117.2367464)
+9515 gilman dr : (32.8755876, -117.2355243)
+ucsd book store : (32.8794408, -117.2369353)
+coast apts : (32.8697562, -117.2474028)
+lyman ln : (32.8793588, -117.2353782)
+international facility : None
+trolley - uc central campus stop : None
+canyonview rec/ athletics administration : None
+seventh college  #2 : (32.8879708, -117.2421264)
+meyers dr : (32.8779216, -117.2362076)
+9515 gilman drive -  : (32.8755876, -117.2355243)
+sixth lane : None
+bernice drive : None
+black's beach - parking lot : (32.8906575, -117.2534656)
+social science research building : (32.8807041, -117.2400766)
+mesa nueva arena - 2nd floor  : (32.8747057, -117.2228857)
+tuolumne apartments : (32.8784078, -117.2431771)
+charles david keeling apts bldg 1 : (32.8737556, -117.2433215)
+villa la jolla : (32.8704438, -117.2339348)
+mandeville center : (32.8777923, -117.2399788)
+3391 lebon dr : (32.8652146, -117.2235714)
+gilman transit center : (32.8648237, -117.2364128)
+pepper canyon  apartments : (32.8775872, -117.2306142)
+mesa apartments : (32.87382780000001, -117.2215649)
+tioga : None
+mesa nueva - arena : (32.8747057, -117.2228857)
+seventh college  #6 : (32.8879708, -117.2421264)
+physics and mathematics building : None
+ucsd hillcrest medical offices south : None
+biomedical science building : (32.8765264, -117.2361206)
+canyonview aquatic & climbing wall facility : None
+town square : None
+geisel library -  : (32.881092, -117.2375659)
+justice lane : (32.8822475, -117.2322471)
+one miramar street, building 2 : (32.8737372, -117.2268607)
+la jolla village dr : (32.8704254, -117.2218461)
+discovery hall : (32.8740494, -117.2419356)
+target - price center : (32.8798916, -117.2363115)
+tec café : (32.8857804, -117.2404806)
+exchange : None
+ucsd medical center - hillcrest : None
+9450 gilman dr : (32.8728214, -117.2353492)
+one miramar : (32.8737372, -117.2268607)
+main gym : None
+arts and humanities : None
+seventh  bldg. : None
+rita atkinson residence hall : (32.872898, -117.2353067)
+sanford consortium parking lot : (32.889588, -117.2440291)
+structural and materials engineering building : (32.8800218, -117.2329402)
+fan-fan-rw academic building : (32.8800633, -117.2409288)
+ucsd campus central station : (32.881168, -117.2343605)
+9450 innovation lane : (32.8784646, -117.23059)
+blacks hall : (32.8821063, -117.2327146)
+8212 regents rd : (32.8655293, -117.2221768)
+mandler hall : (32.8793034, -117.2421403)
+lot 703 : None
+uc health : (32.8944459, -117.2121696)
+scholars drive north : (32.8842874, -117.2424066)
+geisel : (32.881092, -117.2375659)
+design & innovation building : (32.8794117, -117.2322377)
+tioga hall north : (32.8790315, -117.2433838)
+telemedicine center : None
+library walk - geisel  : (32.881092, -117.2375659)
+matthews apartments : (32.878646, -117.2310505)
+residence hall, dorm : None
+asante hall : (32.8843065, -117.2417832)
+mesa nueva - marea : (32.8747057, -117.2228857)
+sixth college parking garage : (32.8807011, -117.2420455)
+village  building : None
+warren mall : (32.881153, -117.2348495)
+7th college laundry room : None
+one miramar st apts : (32.8737372, -117.2268607)
+biomedical library : (32.8752808, -117.2368842)
+3869 miramar street : (32.8756465, -117.2221949)
+ucsd central campus bus : (32.878353, -117.231842)
+parking garage - catalyst bldg : None
+pepper canyon apartments : (32.8775872, -117.2306142)
+rita atkinson : (32.872898, -117.2353067)
+asia hall : (32.8858003, -117.2434846)
+lot 702 : None
+rimac -   : (32.8851041, -117.2404977)
+mandeville lane : (32.8775173, -117.2385697)
+frankfurter hall : (32.8846291, -117.2329765)
+1 miramar street complex, between building #1 & #2 : (32.8737372, -117.2268607)
+seventh college  building 6 : (32.8880731, -117.2431334)
+cuzco house  : (32.8846278, -117.241845)
+bistro at the strand : (32.8879461, -117.242069)
+tierra : None
+lower marshall apartments : None
+south mesa apartments : None
+engineering building : None
+social sciences bldg. : None
+rwac : (32.8803878, -117.2410734)
+north america & latin america hall : (32.8851058, -117.2434705)
+thornton hospital : (32.8781896, -117.2258032)
+geisel library : (32.881092, -117.2375659)
+library walk - the trove : (32.8787741, -117.2375612)
+structural & material engineering bldg : (32.8800218, -117.2329402)
+innovation ln : (32.8792475, -117.2316562)
+prebys conrad music center : (32.8778953, -117.2347713)
+keeling apt, 5th floor  : (32.8737556, -117.2433215)
+tioga   : None
+miramar st : (32.8735076, -117.2238704)
+costa verde hall : (32.868621, -117.21822)
+fan - fan -rw academic bldg : (32.8800633, -117.2409288)
+biomedical sciences way : (32.8747731, -117.2366032)
+muir biology : (32.8784187, -117.2410685)
+ tierra building : None
+trolley - la jolla health : None
+tenya hall : (32.8794203, -117.2428555)
+meyers drive : (32.8779216, -117.2362076)
+one miramar bldg 4 : (32.8737372, -117.2268607)
+ of the trove bldg : None
+mesa nueva - cresta : (32.875004, -117.2229999)
+lot p508 : (32.8803157, -117.2334851)
+seventh college #5 : (32.8879708, -117.2421264)
+lot 003 : None
+coast graduate housing : None
+showa ramen -  : (32.8809105, -117.2408997)
+israni biomedical research facility : (32.8744664, -117.2349451)
+scholars dr north : (32.8842874, -117.2424066)
+camp snoopy res hall : None
+4067 miramar street : (32.87465, -117.2188676)
+humanities &social sciences : None
+matthew ln : (32.8801283, -117.2344967)
+asante house : None
+mesa nueva : (32.8756502, -117.2224578)
+warren black hall   : (32.8821063, -117.2327146)
+stein clinical research bldg : (32.8968497, -117.2424287)
+la jolla del sol apts : (32.8655512, -117.2230338)
+one miramar street, building 4 : (32.8737372, -117.2268607)
+library walk san diego : (32.8787741, -117.2375612)
+railing between pangea parking structure / earth hall south : (32.8842556, -117.2431062)
+lyman ave : (32.8792546, -117.2361174)
+keeling apartments building 1 : (32.8737556, -117.2433215)
+bonner hall : (32.8754094, -117.2403292)
+ridge walk academic : (32.8816297, -117.2407435)
+atlantis dorms : None
+coast apartments : (32.8697562, -117.2474028)
+piedra : None
+revelle keeling south tower apartments : (32.8753781, -117.2418523)
+neighborhood - coast apartments : (32.8697562, -117.2474028)
+engineering unit building 3a : None
+target pc-south : None
+seventh college  - building 4 - parking lot : (32.8879708, -117.2421264)
+marshall residential life : None
+design and innovation building : (32.8794117, -117.2322377)
+york hall : (32.8745478, -117.2400077)
+pines resturant : None
+gilman drive/la jolla : (32.8646691, -117.2363465)
+foodworx  : (32.878797, -117.230439)
+sixth college - catalyst : (32.8807011, -117.2420455)
+stein /  va hospital entrance : None
+tenaya hall : (32.8794203, -117.2428555)
+galbraith hall : (32.8737102, -117.2409723)
+seventh college  building 2 -  : (32.8880662, -117.2425365)
+one miramar st -  : (32.8737372, -117.2268607)
+ola parking : None
+1 miramar street, la jolla : (32.8737372, -117.2268607)
+tapestry bldg  : None
+school of medicine building 1 : (32.8750311, -117.2341282)
+marshal college : (32.8831443, -117.2431716)
+3967 miramar st : (32.8746035, -117.2201336)
+target-pc  on matthews lane : (32.8801283, -117.2344967)
+ucsd residence hall : (32.881168, -117.2343605)
+torrey pines center north : (32.8905271, -117.2430509)
+discovery wy : (32.8700627, -117.2478957)
+one miramar st bldg 2 : (32.8737372, -117.2268607)
+the trove - price center  : (32.8797205, -117.2361952)
+erc africa hall : (32.886143, -117.2434803)
+7th  tower : None
+applied physics and math bldg : (32.8795424, -117.2411535)
+marshall apartments : None
+humanities & social sciences : None
+latin america hall : (32.8851058, -117.2434705)
+south scholars drive : (32.875467, -117.243133)
+gilman parking : (32.8773774, -117.2338526)
+unex o : None
+trolley - central campus stop : None
+avenida sivrita : None
