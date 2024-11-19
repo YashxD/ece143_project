@@ -21,7 +21,7 @@ pages = {
 
 # Initialize session state to remember the current page
 if "current_page" not in st.session_state:
-    st.session_state.current_page = "Theft_Map"
+    st.session_state.current_page = "BicyclesVsScooters"
 
 # Create clickable buttons for each page
 for page_name, page_display_name in pages.items():
@@ -40,9 +40,10 @@ if selected_page == "Theft_Map":
     FromTOD = st.slider('From (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(0,0)))
     ToTOD = st.slider('To (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(23,59)))
     options = ['bicycle', 'scooter', 'skateboard']
-    selected_options = st.multiselect('Type of PEV:', options)
+    selected_options = st.multiselect('Type of Vehicle:', options)
     coordinates = mapPlot(dateRange[0], dateRange[1], FromTOD, ToTOD,  selected_options)
-    st.map(coordinates, size="0.5")
+    st.write(f"Number of mappable thefts: {len(coordinates)}")
+    st.map(coordinates, size=3, height=700)
     
 
 elif selected_page == "PricevsTOD":
@@ -54,3 +55,15 @@ elif selected_page == "WeathervsTheft":
     st.title("Data Analysis Page")
     st.write("Analyze your data here.")
     # Add code for data analysis features, e.g., charts or tables
+    
+elif selected_page == "BicyclesVsScooters":
+    result = bicyclesVersusScooters()
+    st.bar_chart(result, height = 1000, x='year_month', y=['Bike_Count', 'Scooter_Count'], x_label='Year - Month', y_label='# of Thefts', color = ['#FF0000', '#0000FF'])
+    pass
+elif selected_page == "Worstday":
+    result = getWorstDay()
+    st.title("Think you are having a bad day?")
+    st.write(f"On {result['date']} at {result['time']}, someone had their {result['type']} stolen from the {result['location']}. It was valued at")
+    st.subheader(f"$ {result['price']}")
+    st.header("")
+    st.header("ouch")

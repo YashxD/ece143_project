@@ -1,0 +1,2019 @@
+type,price,location,date,time
+bicycle,200,mesa nueva - cala,09/04/2022,04:30
+bicycle,500,regents rd,09/05/2022,04:30
+bicycle,330,sixth college,09/02/2022,13:00
+scooter,1004,innovation ln foodworx,06/30/2022,20:00
+scooter,1004,innovation ln foodworx,07/01/2022,21:00
+scooter,1004,innovation ln foodworx,07/25/2022,21:00
+scooter,1004,innovation ln foodworx,06/30/2022,21:00
+bicycle,350,europe hall / asia hall,09/07/2022,01:10
+bicycle,300,matthews apartments,09/14/2022,19:20
+bicycle,-1,warren apts - douglas hall,09/16/2022,12:02
+bicycle,1242,tioga hall,09/17/2022,12:04
+bicycle,800,seventh  bldg.,09/17/2022,01:05
+bicycle,1200,trolley - central campus stop,09/17/2022,13:06
+bicycle,220,scholars dr north,09/16/2022,19:00
+scooter,558,rimac,09/17/2022,19:13
+scooter,430,marshall upper apts m,09/19/2022,04:45
+bicycle,419,one miramar st - ,09/20/2022,01:25
+bicycle,1039,asia hall,09/20/2022,04:15
+bicycle,1200,"residence hall, dorm",09/22/2022,05:05
+scooter,799,7th college  bldg 3,09/21/2022,18:45
+bicycle,1500,center hall,09/22/2022,19:00
+bicycle,200,village  building,09/23/2022,00:00
+bicycle,500,seventh college ,09/26/2022,13:30
+bicycle,600,seventh college ,09/23/2022,15:28
+bicycle,627,galathea ,09/24/2022,07:00
+bicycle,-1,trolley - central campus stop,09/26/2022,00:03
+bicycle,1000,ucsd police department,09/26/2022,08:37
+bicycle,300,7th college building,09/22/2022,02:15
+bicycle,450,tenaya hall,09/26/2022,20:35
+bicycle,800,ebu2,09/23/2022,14:00
+scooter,649,innovation lane,09/19/2022,18:00
+scooter,649,sixth college,09/19/2022,18:00
+bicycle,500,galathea hall,09/28/2022,12:15
+scooter,400,ebu2,09/28/2022,17:30
+bicycle,1200,ucsd central campus trolley stop,09/28/2022,11:30
+bicycle,249,center hall,09/28/2022,21:15
+scooter,400,ebu2,09/29/2022,17:30
+bicycle,501,galbraith hall,09/28/2022,12:15
+bicycle,1201,trolley - central campus stop,09/28/2022,11:30
+bicycle,1200,design and innovation bldg.,09/28/2022,11:15
+bicycle,1500,voigt dr,09/29/2022,15:15
+bicycle,900,natural science bldg ,09/28/2022,00:00
+bicycle,1000,thornton hospital,09/30/2022,16:25
+scooter,649,price center,04/02/2022,13:35
+scooter,403,price center,04/03/2022,01:20
+bicycle,150,central campus trolley station,04/03/2022,11:30
+bicycle,1000,nuevo  - exchange,04/02/2022,11:37
+bicycle,300,keeling building,03/20/2022,10:00
+bicycle,300,seventh college ,04/07/2022,16:34
+bicycle,250,scholars drive north,04/06/2020,19:50
+bicycle,250,seventh college  #6,04/11/2022,07:30
+bicycle,250,ebu2,04/12/2022,21:05
+scooter,300,warren lecture hall,04/12/2022,10:00
+bicycle,650,"4168 front st, lot p964",04/13/2022,13:00
+bicycle,1000,price center ,04/14/2022,16:20
+bicycle,650,ucsd hillcrest medical offices south,04/13/2022,13:00
+bicycle,310,geisel,04/16/2022,07:22
+bicycle,450,7th college laundry room,04/16/2022,11:37
+bicycle,400,galbraith hall,04/19/2022,12:50
+scooter,550,center hall,04/19/2022,12:45
+bicycle,300,stewart hall,04/21/2022,00:00
+bicycle,300,pangea parking structure,04/22/2022,06:05
+bicycle,150,gilman dr / myers dr,04/22/2022,13:00
+bicycle,2000,nuevo  - piedra,04/23/2022,23:22
+bicycle,539,bates hall,04/24/2022,13:22
+scooter,-1,rimac,04/25/2022,20:52
+scooter,850,rimac - ,04/25/2022,20:37
+bicycle,330,center hall,04/24/2022,13:40
+bicycle,200,central mesa apts,04/26/2022,23:00
+bicycle,799,gilman parking structure,04/27/2022,21:00
+scooter,750,design and innovation bldg,04/28/2022,12:15
+bicycle,4000,social sciences bldg,04/29/2022,09:25
+bicycle,1500,stein clinical research bldg,04/29/2022,13:15
+scooter,827,warren hall ,02/28/2022,19:10
+skateboard,350,natural sciences bldg,03/01/2022,13:15
+bicycle,600,one miramar st bldg 4,03/01/2022,22:30
+bicycle,1500,scholars dr north,03/04/2022,03:30
+scooter,400,otterson hall,03/02/2022,18:00
+bicycle,440,3869 miramar street,03/05/2022,02:35
+bicycle,500,main gym,03/05/2022,19:52
+bicycle,167,mesa nueva - artesa,03/04/2022,14:15
+bicycle,500,sixth college - catalyst,03/06/2022,05:47
+scooter,20,conrad prebys music center,03/04/2022,14:15
+bicycle,1100,price center ,03/07/2022,16:20
+bicycle,200,price center ,03/07/2022,16:52
+scooter,-1,library walk,03/07/2022,19:14
+scooter,-1,geisel library,03/07/2022,19:27
+bicycle,800,erc africa hall,03/07/2022,04:55
+scooter,1237,warren lecture hall,03/08/2022,19:04
+bicycle,200,miramar st,03/06/2022,11:59
+bicycle,500,central campus trolley,03/10/2022,14:40
+scooter,300,geisel library,03/11/2022,21:25
+bicycle,300,geisel,03/12/2022,02:34
+scooter,330,library walk - the trove,03/11/2022,21:05
+scooter,800,ntpll - tapestry,03/14/2022,07:40
+bicycle,750,gilman parking structure,03/11/2022,20:45
+bicycle,-1,pepper canyon lodge,03/17/2022,00:00
+bicycle,600,gilman dr,03/12/2022,22:55
+bicycle,400,goldberg hall  ,03/17/2022,02:15
+bicycle,1115,unex o,03/21/2022,14:15
+bicycle,450,social sciences building,03/21/2022,15:00
+bicycle,70,harlan hall,03/26/2022,04:00
+bicycle,200,rita atkinson ,02/03/2022,00:30
+bicycle,300,central campus ,03/29/2022,20:15
+scooter,500,north center hall ,03/30/2022,15:25
+bicycle,200,the trove - ,03/31/2022,13:50
+bicycle,1000,la jolla del sol apts,03/31/2022,13:32
+bicycle,150,center hall ,03/31/2022,17:22
+scooter,300,arts and humanities,12/01/2022,08:20
+bicycle,600,engineering building,12/02/2022,00:30
+bicycle,600,jacobs hall,12/02/2022,23:30
+bicycle,150,voigt dr,12/04/2022,15:55
+scooter,700,liontree arena,12/06/2022,08:07
+scooter,700,atlantis hall,12/06/2022,03:45
+bicycle,849,nuevo ,12/06/2022,16:56
+bicycle,140,cse building,12/06/2022,16:30
+bicycle,300,geneva hall,12/06/2022,13:55
+scooter,400,pepper canyon hall,12/07/2022,19:00
+bicycle,-1,voigt dr/ matthews ln,12/07/2022,17:01
+scooter,800,pangea parking structure,12/07/2022,18:34
+scooter,1600,ucsd police department,12/07/2022,14:30
+scooter,499,nuevo  - exchange,12/10/2022,20:30
+bicycle,250,trolley - central campus stop,12/11/2022,13:55
+scooter,550,goldberg hall,12/16/2022,00:00
+bicycle,500,va hospital,12/16/2022,19:28
+scooter,300,trolley - central campus stop,12/18/2022,10:55
+bicycle,-1,villa la jolla dr/ gilman dr,12/19/2022,19:50
+bicycle,1500,voigt dr,12/23/2022,18:40
+scooter,405,regents rd,12/28/2022,05:30
+bicycle,50,scholars dr north,12/21/2021,21:00
+bicycle,107,mesa nueva,12/20/2021,14:00
+bicycle,150,matthews apt d - ,01/02/2022,02:00
+bicycle,299,seventh college bldg 3,01/02/2022,13:20
+bicycle,200,charles david keeling apt 1,12/24/2021,14:25
+bicycle,380,charles david keeling apt 1,12/22/2021,13:15
+bicycle,542,seventh college,12/23/2021,12:25
+bicycle,800,canyon view aquatic & climbing wall,01/03/2022,17:13
+bicycle,400,structural and material engineering bldg,01/03/2022,22:30
+bicycle,500,structural and material engineering bldg,01/04/2022,00:21
+bicycle,600,one miramar st bldg,01/04/2022,08:40
+bicycle,300,seventh college  #6,01/03/2022,12:30
+bicycle,900,erc africa hall,12/22/2021,13:30
+bicycle,400,capa,01/05/2022,05:00
+bicycle,280,tioga hall,01/04/2022,05:00
+scooter,650,challenger hall,01/05/2022,09:15
+bicycle,1500,one miramar st bldg 3,01/05/2022,09:45
+bicycle,700,ucsd police department,01/07/2022,16:19
+bicycle,200,nuevo  - brisa,01/06/2022,17:15
+bicycle,600,seventh college ,12/26/2021,00:00
+bicycle,250,nuevo  - piedra,12/20/2021,03:00
+bicycle,1100,one miramar st bldg 1,01/08/2022,14:22
+bicycle,300,sixth college,12/23/2021,07:30
+bicycle,250,one miramar st bldg 4,01/08/2022,20:55
+bicycle,2200,seventh college ,01/07/2022,11:00
+bicycle,700,price center,01/12/2022,18:50
+bicycle,-1,price center,01/13/2022,13:05
+bicycle,400,price center,01/13/2022,18:45
+bicycle,350,scholars dr north,12/28/2021,12:55
+bicycle,500,warren lecture hall,01/16/2022,10:10
+scooter,625,marshall lowers,01/16/2022,19:45
+bicycle,1000,seventh college  bldg 1,06/30/2022,08:45
+bicycle,800,matthews apartments,01/16/2022,14:40
+bicycle,550,ntpll - tapestry,12/29/2021,13:30
+scooter,830,structural and material engineering bldg,01/18/2022,11:22
+bicycle,300,price center,01/18/2022,14:17
+bicycle,1394,thurgood marshall res hall,01/17/2022,20:30
+bicycle,250,tioga hall,01/19/2022,15:20
+scooter,400,asante hall ,01/20/2022,02:20
+bicycle,300,warren black hall  ,01/20/2022,12:55
+scooter,400,canyon vista admin,01/19/2022,15:15
+bicycle,350,one miramar street,12/28/2021,16:30
+bicycle,300,tioga hall,01/20/2022,01:07
+scooter,280,gilman dr,07/22/2021,08:35
+bicycle,569,douglas hall,01/21/2021,04:15
+scooter,549,ucsd central campus trolley station,01/21/2022,19:20
+bicycle,100,pangea dr,01/21/2022,19:27
+bicycle,400,pepper canyon lodge,01/21/2022,12:00
+bicycle,730,sanford consortium parking lot,01/14/2022,02:00
+scooter,400,geisel library ,01/22/2022,16:19
+bicycle,400,marshall uppers,01/23/2022,11:15
+bicycle,198,camp snoopy residence hall,01/12/2022,16:25
+bicycle,500,stewart hall,01/02/2022,00:30
+bicycle,300,seventh college ,07/01/2021,19:15
+bicycle,400,geisel library,01/26/2022,13:19
+bicycle,1499,muir college dr,01/26/2022,21:00
+bicycle,1000,justice lane,01/28/2022,02:00
+bicycle,100,tenya hall,01/04/2022,21:30
+bicycle,150,trolley - central campus stop,01/30/2022,03:45
+bicycle,1200,library walk,01/30/2022,17:30
+bicycle,800,tuolumne apts,01/05/2022,12:00
+scooter,708,geisel library,01/30/2022,13:45
+bicycle,330,atlantis dorms,01/31/2022,12:00
+bicycle,1500,eleanor roosevelt college,01/31/2022,19:25
+bicycle,1520,thornton pavilion,10/01/2022,08:26
+scooter,700,price center,10/01/2022,16:22
+bicycle,140,sixth college lobby - ,10/02/2022,06:40
+scooter,360,price center ,10/02/2022,14:40
+scooter,-1,campus services complex a,10/03/2022,05:24
+bicycle,300,nuevo ,09/30/2022,00:15
+scooter,268,lebon dr,10/03/2022,07:45
+scooter,-1,earth hall south,10/04/2022,09:24
+scooter,600,railing between pangea parking structure / earth hall south,10/04/2022,01:07
+bicycle,750,price center,10/04/2022,07:40
+bicycle,800,thurgood marshall administration offices,10/04/2022,19:30
+bicycle,375,warren lecture hall ,10/04/2022,16:52
+scooter,350,medical teaching facility,10/05/2022,13:15
+bicycle,399,beagle hall,10/02/2022,07:55
+bicycle,1700,"seventh college,  tower",10/06/2022,09:29
+scooter,600,conrad presbys  - ,10/06/2022,11:52
+bicycle,200,one miramar st blgd 3,10/06/2022,03:00
+scooter,570,central hall north ,10/06/2022,11:55
+bicycle,800,geisel library - ,10/05/2022,17:14
+bicycle,3000,franklin antonio hall,10/06/2022,12:00
+scooter,400,tenaya hall,10/07/2022,04:15
+bicycle,1000,blake hall,10/09/2022,02:55
+bicycle,500,trolley - central campus stop,10/09/2022,15:30
+bicycle,1500,scholars dr north,10/09/2022,20:52
+bicycle,700,scholars dr north,10/08/2022,16:00
+bicycle,700,mesa nueva,10/10/2022,10:25
+bicycle,300,foodworx dining room,10/10/2022,10:05
+skateboard,165,price center ,10/10/2022,15:25
+scooter,-1,trolley - central campus stop,10/11/2022,12:07
+bicycle,350,center hall,10/11/2022,14:14
+bicycle,301,tenaya hall,10/11/2022,00:30
+bicycle,801,stein clinical research bldg.,10/03/2022,11:52
+bicycle,1500,tioga hall,10/12/2022,11:30
+scooter,750,seventh college,10/13/2022,04:00
+bicycle,1200,seventh college,10/13/2022,15:30
+bicycle,300,library walk,10/13/2022,22:05
+bicycle,300,gilman dr,10/12/2022,13:30
+bicycle,950,scholars dr south,10/14/2022,11:30
+bicycle,1000,regents rd,10/15/2022,19:07
+bicycle,400,ucsd central campus bus,10/15/2022,21:05
+bicycle,270,argo hall,10/16/2022,22:30
+bicycle,899,main gym,10/15/2022,12:06
+scooter,600,gilman parking structure,10/17/2022,14:30
+bicycle,300,one miramar st bldg 2,10/16/2022,05:00
+bicycle,530,  of lion tree,10/17/2022,11:40
+scooter,850,design & innovation bldg - ,10/17/2022,15:47
+scooter,689,rimac,10/17/2022,22:30
+bicycle,270,blake hall,10/17/2022,19:10
+scooter,387,center hall,10/18/2022,08:40
+bicycle,225,seventh college  tower,10/18/2022,04:30
+bicycle,700,nuevo  - piedra,10/20/2022,01:15
+bicycle,600,science & engineering research facility,10/20/2022,08:35
+bicycle,200,blake hall,10/20/2022,04:45
+scooter,599,trolley - central campus stop,10/19/2022,19:20
+scooter,600,seventh college ,10/23/2022,02:37
+bicycle,-1,ucsd medical facility - hillcrest,10/22/2022,15:15
+bicycle,1600,nuevo  - tierra,10/24/2022,13:56
+scooter,500,ladden hall,10/24/2022,13:00
+bicycle,250,osler ln,10/24/2022,15:11
+bicycle,500,price center,10/24/2022,21:15
+bicycle,500,gilman dr,10/24/2022,09:40
+bicycle,90,russell lane,10/25/2022,02:00
+bicycle,500,mesa nueva - artesa,10/25/2022,02:52
+bicycle,1000,blacks beach,10/25/2022,13:32
+scooter,300,café ventanas,10/26/2022,09:00
+bicycle,1500,mesa nueva,10/26/2022,01:00
+bicycle,500,conrad prebys music center,10/25/2022,11:55
+bicycle,300,regents rd,10/26/2022,05:02
+scooter,790,price center,10/26/2022,21:59
+bicycle,150,coast apartments,10/27/2022,00:30
+bicycle,442,biomedical sciences wy,10/27/2022,15:22
+bicycle,400,matthews apartments,10/24/2022,20:00
+scooter,-1,nordstrom rack,10/27/2022,19:07
+bicycle,1300,student services center,10/27/2022,21:16
+bicycle,150,miramar st,10/27/2022,06:00
+bicycle,500,earth hall,10/27/2022,23:00
+scooter,-1,la jolla village dr shopping center,10/29/2022,19:53
+bicycle,900,one miramar st bldg 3,10/29/2022,12:30
+bicycle,100,lion tree arena,10/30/2022,12:15
+bicycle,-1,warren apts - goldberg,02/01/2022,02:01
+bicycle,900,rimac ,02/01/2022,15:50
+bicycle,600,geisel library,02/01/2022,15:10
+bicycle,1340,price center south,01/29/2022,17:30
+bicycle,1400,matthews bldg b,01/20/2022,15:00
+bicycle,400,residence hall ,02/02/2022,02:00
+bicycle,150,pepper canyon  apts,02/02/2022,02:12
+bicycle,949,warren field,02/02/2022,21:00
+bicycle,-1,frankfurter hall ,02/02/2022,03:30
+bicycle,600,kaleidoscope,02/02/2022,13:15
+bicycle,800,price center,02/03/2022,22:45
+scooter,450,geisel library,02/04/2022,03:25
+scooter,450,geisel library,02/04/2022,09:35
+bicycle,400,scholars dr n / muir ln,02/03/2022,23:00
+bicycle,400,geisel library,01/02/2019,16:24
+bicycle,-1,seventh college,02/06/2022,03:15
+bicycle,250,avenida sivrita,02/06/2022,12:50
+bicycle,750,gilman dr,02/07/2022,06:45
+bicycle,600, tierra building,02/08/2022,10:30
+bicycle,200,blake hall,02/08/2022,04:00
+bicycle,129,douglas hall,02/08/2022,06:27
+scooter,400,price center,02/08/2022,18:37
+bicycle,656,voigt lane,02/06/2022,07:00
+bicycle,400,ucsd police department,01/10/2022,00:00
+bicycle,300,regents rd,02/09/2022,13:00
+bicycle,479,miramar street,02/10/2022,13:20
+scooter,500,trolley - central campus stop,02/11/2022,20:58
+bicycle,-1,catalyst building,02/14/2022,14:45
+scooter,899,target ,02/14/2022,17:30
+scooter,900,price center ,02/14/2022,17:27
+bicycle,300,structural material & engineering bldg,02/15/2022,11:30
+bicycle,300,goldberg hall,02/15/2022,01:30
+scooter,-1,geisel library,02/15/2022,20:50
+scooter,800,serf bldg ,02/16/2022,02:00
+bicycle,600,lot 207,02/02/2022,21:00
+scooter,800,library walk - geisel ,02/14/2022,00:30
+scooter,600,engineering bldg 2,02/16/2022,15:50
+bicycle,-1,center hall,02/16/2022,18:06
+bicycle,100,north mandeville ,02/16/2022,20:10
+bicycle,-1,warren lecture hall,02/17/2022,17:55
+bicycle,3739,structural and material engineering bldg,02/17/2022,17:15
+scooter,200,ebu1,02/17/2022,18:18
+bicycle,110,galbraith hall,02/17/2022,21:30
+scooter,600,64 degrees,02/18/2022,10:53
+bicycle,860,redwood drive,02/18/2022,12:13
+bicycle,228,mosaic sixth college,02/14/2022,03:00
+bicycle,228,mosaic sixth college,02/18/2022,12:00
+scooter,400,marshall upper apartments,02/18/2022,15:45
+bicycle,468,social sciences building,02/18/2022,18:19
+bicycle,500,matthews ln,02/18/2022,13:30
+bicycle,1,seventh college  #1,02/18/2022,18:00
+bicycle,350,camp snoopy residence halls,02/19/2022,19:00
+bicycle,800,ucsd police,02/20/2022,01:00
+bicycle,1000,seventh college ,02/16/2022,04:30
+bicycle,-1,trolley - ucsd health (voigt),02/23/2022,19:02
+bicycle,400,galbraith hall walkway,12/10/2021,20:20
+scooter,600,9192 regents rd,02/24/2022,01:15
+bicycle,100,9515 gilman dr,02/24/2022,10:30
+scooter,369,lot 506,02/24/2022,20:24
+bicycle,150,ntpll - kaleidoscope ,02/24/2022,12:30
+bicycle,500,camp snoopy,01/30/2022,15:55
+scooter,1000,price center ,02/25/2022,20:22
+bicycle,600,rita atkinson hall,02/24/2022,11:05
+bicycle,-1,tuolomne apts,02/28/2022,10:06
+bicycle,300,beagle hall,02/28/2022,10:19
+scooter,600,marshall field  side,02/28/2022,02:15
+bicycle,200,rita atkinson entrance ,02/18/2022,12:00
+scooter,800,seventh college  #8,02/28/2022,16:30
+bicycle,580,structural & engineering bldg,02/28/2022,18:07
+bicycle,800,warren mall,08/02/2022,12:17
+bicycle,-1,seventh college,08/05/2022,10:30
+bicycle,1000,seventh college ,08/05/2022,10:38
+bicycle,650,mesa nueva arena - 2nd floor ,08/06/2022,07:30
+bicycle,400,central mesa apts - ,08/07/2022,20:05
+bicycle,1000,price center  - ,08/08/2022,21:01
+bicycle,549,pangea parking structure,08/11/2022,05:50
+scooter,868,uc san diego bookstore,08/11/2022,00:15
+bicycle,500,social science bldg,08/11/2022,10:45
+scooter,500,regents rd,08/15/2022,13:15
+scooter,600,ucsd police department,08/15/2022,13:07
+bicycle,900,regents road,08/15/2022,17:00
+bicycle,2000,café ventanas loading dock,08/19/2022,06:45
+bicycle,2349,biomedical sciences building,08/20/2022,16:49
+bicycle,800,rita atkinson residence hall,08/21/2022,01:00
+bicycle,500,warren mall,08/22/2022,16:27
+bicycle,1500,stein clinical research bldg,08/23/2022,12:25
+bicycle,200,ola parking garage - ,08/24/2022,21:12
+bicycle,1200,sequoyah hall,08/25/2022,11:37
+bicycle,350,south side of price center,08/22/2022,13:10
+scooter,500,rec gym - ,08/25/2022,15:30
+bicycle,400,nuevo ,08/25/2022,13:10
+scooter,-1,ebu1,08/26/2022,18:29
+bicycle,1200,south mesa apts,08/27/2022,05:00
+scooter,-1,lecture hall,08/28/2022,08:45
+bicycle,400,one miramar street,08/28/2022,18:25
+bicycle,400,ebu1,08/28/2022,14:37
+bicycle,300,ucsd police department,05/02/2022,09:30
+bicycle,300,ucsd police department,05/02/2022,15:27
+scooter,299,price center,05/02/2022,17:00
+scooter,989,warren college,05/02/2022,16:45
+scooter,400,ucsd police department,05/03/2022,13:25
+scooter,850,hopkins parking structure,05/08/2022,08:35
+bicycle,370,warren activity center ,05/05/2022,22:00
+bicycle,390,trolley - central campus,05/09/2022,13:15
+scooter,-1,gilman dr / myers dr,05/09/2022,20:36
+bicycle,150,price center south expansion,05/11/2022,08:57
+scooter,350,ledden auditorium,05/11/2022,09:15
+scooter,400,biomedical sciences wy,05/12/2022,11:00
+scooter,800,price center,05/12/2022,22:05
+bicycle,-1,beagle hall,05/13/2022,10:36
+bicycle,1200,price center,05/13/2022,19:05
+bicycle,650,voigt dr,05/13/2022,20:40
+skateboard,-1,trolley - central campus,05/13/2022,21:45
+scooter,-1,trolley - central campus,05/13/2022,21:45
+bicycle,269,keeling apts,05/14/2022,13:00
+scooter,700,camp snoopy residential hall,05/15/2022,14:14
+scooter,560,osler ln,05/12/2022,10:30
+bicycle,700,gilman dr,05/16/2022,15:37
+scooter,-1,ucsd residence hall,05/13/2022,09:30
+scooter,500,warren commuter lounge,05/19/2022,18:25
+bicycle,200,latin america hall ,05/20/2022,03:15
+bicycle,-1,structural engineering bldg,05/20/2022,12:39
+bicycle,700,science and engineering bldg,05/20/2022,13:00
+bicycle,750,charles david keeling apts,05/20/2022,03:30
+scooter,850, of the trove bldg,05/20/2022,19:45
+scooter,300,cse bldg,05/22/2022,01:10
+scooter,300,trolley - central campus stop,05/23/2022,20:45
+bicycle,400,south mesa apts,05/23/2022,08:32
+bicycle,400,warren north  ,05/24/2022,08:45
+bicycle,100,computer science & engineering bldg,05/24/2022,13:15
+bicycle,-1,gilman parking structure,05/23/2022,12:45
+bicycle,300,halicioglu data center,05/24/2022,14:27
+scooter,279,lot 309,05/26/2022,19:30
+bicycle,-1,discovery hall,05/28/2022,05:30
+scooter,659,target,05/29/2022,10:00
+bicycle,750,miramar street,05/30/2022,20:45
+scooter,699,canyon vista admin & dining facility,11/01/2022,18:50
+scooter,855,beagle hall,11/02/2022,07:50
+scooter,425,mesa verde hall,11/02/2022,18:00
+scooter,400,computer engineering bldg,11/03/2022,07:55
+bicycle,2000,gilman and myers bus stop,11/04/2022,06:20
+bicycle,99,pepper canyon apartments,11/03/2022,19:30
+scooter,415,center hall,11/04/2022,15:00
+bicycle,30,lyman ln,11/04/2022,02:25
+bicycle,1015,price center -  - ,11/05/2022,03:30
+scooter,1030,commuter lounge - ,11/05/2022,05:45
+bicycle,280,nuevo  - viento,11/03/2022,01:10
+scooter,430,the village ,11/06/2022,11:00
+bicycle,150,pepper canyon ln,11/06/2022,09:30
+scooter,800,target,11/06/2022,14:02
+bicycle,350,peterson hall,11/07/2022,08:42
+bicycle,400,york hall,11/07/2022,09:50
+scooter,650,meteor hall,11/06/2022,03:30
+bicycle,-1,old town,11/07/2022,12:55
+scooter,700,starbucks coffee,11/09/2022,13:30
+bicycle,520,miramar street,11/09/2022,01:30
+bicycle,-1,"one miramar st, bldg 1",11/10/2022,16:59
+bicycle,1206,lot 017,11/11/2022,12:45
+scooter,600,price center ,11/10/2022,18:00
+scooter,300,the village ,11/12/2022,18:07
+bicycle,500,rady school of medicine,11/14/2022,15:07
+scooter,850,"revelle - housing, dining & hospitality bldg",11/14/2022,12:00
+scooter,400,galbraith hall,11/15/2022,10:15
+scooter,399,trolley - central campus stop,11/15/2022,11:49
+scooter,310,center hall north ,11/15/2022,11:42
+scooter,2300,wells fargo hall,11/15/2022,13:30
+bicycle,300,peterson hall  ,11/16/2022,10:30
+scooter,300,center hall,11/16/2022,15:10
+bicycle,1000,seventh college  #3,11/17/2022,19:39
+bicycle,550,lyman ave,11/18/2022,13:36
+bicycle,750,charles david keeling apts,11/19/2022,06:35
+bicycle,646,la jolla del sol apartments,11/20/2022,00:45
+bicycle,750,charles david keeling apartments,11/19/2022,06:35
+scooter,700,pepper canyon apartments,11/20/2022,05:30
+scooter,1200,rimac,11/20/2022,21:58
+bicycle,380,argo hall,11/21/2022,07:47
+bicycle,534,gilman dr,11/20/2022,11:37
+bicycle,800,geisel library,11/21/2022,12:37
+bicycle,420,price center ,11/20/2022,15:25
+scooter,414,price center,11/21/2022,14:35
+bicycle,250,medical teaching facility,11/21/2022,18:45
+bicycle,-1,pepper canyon apartments,11/22/2022,03:34
+bicycle,600,miramar st,11/21/2022,01:20
+bicycle,110,design and innovation building,11/20/2022,01:00
+bicycle,200,seventh  building,11/21/2022,19:07
+scooter,800,warren lecture hall,11/23/2022,12:37
+bicycle,-1,trolley - central campus stop,11/23/2022,18:50
+bicycle,325,nuevo  - exchange,11/24/2022,05:15
+scooter,1000,price center / target,11/25/2022,21:10
+skateboard,300,mesa apartments central,11/27/2022,15:13
+bicycle,781,one miramar st bldg 1,11/25/2022,14:00
+bicycle,100,ntpll - catalyst,11/25/2022,04:00
+bicycle,500,7th  tower,11/28/2022,18:42
+scooter,649,challenger hall,11/29/2022,00:40
+bicycle,150,marshal lower o bldg,11/27/2022,20:30
+bicycle,170,ntpll - kaleidoscope,07/02/2022,15:50
+bicycle,1000,scholars dr north,07/03/2022,17:15
+bicycle,100,scholars dr north,07/03/2022,20:15
+bicycle,-1,gilman dr/ myers dr,07/05/2022,11:38
+bicycle,500,one miramar street,07/03/2022,05:20
+bicycle,300,camp snoopy,06/11/2022,16:00
+scooter,700,central hall,07/07/2022,10:15
+bicycle,-1,ntpll - mosaic,07/11/2022,13:28
+bicycle,249,mesa nueva - artesa 4th floor,07/03/2022,20:10
+scooter,400,biomedical research facility ii,07/13/2022,17:58
+bicycle,100,gilman dr / myers ,07/14/2022,04:00
+bicycle,1200,molli and arthur wagner dance building,07/18/2022,09:00
+bicycle,675,price center,07/19/2022,20:57
+scooter,2300,central mesa apartments,07/20/2022,20:46
+bicycle,370,urey 1220,07/21/2022,12:17
+bicycle,300,café ventanas,07/01/2022,17:30
+scooter,200,warren lecture hall,07/21/2022,21:34
+bicycle,1270,pacific hall,07/22/2022,18:22
+bicycle,60,seventh college,07/23/2022,00:45
+scooter,-1,geisel library,07/24/2022,17:36
+bicycle,315,mesa nueva - cresta,07/23/2022,18:30
+bicycle,400,la jolla del sol,07/25/2022,10:54
+bicycle,-1,warren apts - goldberg,07/26/2022,12:00
+bicycle,900,atkinson hall,07/26/2022,14:15
+scooter,250,center hall - ,07/28/2022,18:00
+bicycle,-1,south mesa apts,07/30/2022,14:13
+bicycle,300,south mesa apts,07/30/2022,06:50
+scooter,700,ucsd book store,07/30/2022,13:35
+bicycle,700,scholars dr north,07/16/2022,16:30
+bicycle,1600,biomedical research facility,06/02/2022,19:28
+bicycle,450,athena parking,06/03/2022,13:30
+bicycle,759,serf building,06/03/2022,05:05
+scooter,538,trolley- central campus stop,05/26/2022,16:30
+scooter,900,price center,06/05/2022,15:34
+bicycle,217,canyonview,06/05/2022,22:28
+bicycle,-1,main gym,06/05/2022,23:10
+scooter,700,ntpll - scholars parking,06/06/2022,03:30
+bicycle,900,geisel library,06/05/2022,04:40
+scooter,350,price center ,06/06/2022,20:00
+scooter,800,geisel library,06/08/2022,08:30
+scooter,529,warren apartments,06/10/2022,18:35
+bicycle,1500,discovery way,06/10/2022,02:27
+bicycle,172,mesa nueva,06/10/2022,14:30
+skateboard,1500,one miramar street,06/16/2022,16:31
+bicycle,250,south mesa apartments,06/16/2022,23:25
+bicycle,400,mesa nueva - cala,06/21/2022,12:55
+bicycle,-1,trolley - central campus stop,06/21/2022,08:57
+scooter,699,rimac ,06/22/2022,20:15
+scooter,350,7th college,06/26/2022,14:40
+bicycle,1500,europe & asia hall ,06/23/2022,23:30
+bicycle,399,edu ii & literature building,06/29/2022,16:05
+bicycle,300,one miramar bldg 34,06/29/2022,21:15
+bicycle,600,leichtag family foundation,09/03/2024,08:17
+scooter,400,main gymnasium,09/06/2024,19:30
+bicycle,939,piedra - 9th floor,09/13/2024,12:00
+bicycle,100,frankfurter hall,09/14/2024,15:25
+bicycle,300),geneva hall,09/21/2024,02:43
+bicycle,1800,geneva hall,09/21/2024,15:45
+scooter,600,target-pc  on matthews lane,09/25/2024,20:22
+scooter,500,center hall,09/26/2024,11:25
+scooter,350,copa vida café,09/26/2024,11:40
+scooter,1000,peterson hall,09/26/2024,19:04
+bicycle,310,canyonview pool,09/23/2024,11:27
+scooter,500,mandeville lane,09/27/2024,10:11
+scooter,700,design and innovation building,09/27/2024,20:16
+scooter,300,gymnasium,09/28/2024,12:25
+bicycle,985,vela,09/30/2024,02:45
+bicycle,120,vela,09/28/2024,22:40
+scooter,350,rita atkinson residences,09/30/2024,12:32
+bicycle,850,torrey pines center - south,09/24/2024,00:00
+scooter,400,peterson hall,09/30/2024,17:25
+scooter,377,design and innovation building,09/30/2024,19:02
+scooter,-1,peterson hall,09/30/2024,16:25
+scooter,300,mandeville lane,09/30/2024,17:35
+bicycle,800,la jolla del sol apartments,08/01/2024,02:30
+bicycle,75,central mesa apartments,08/01/2024,04:00
+scooter,200,douglas apartments,08/06/2024,01:30
+scooter,400,neighborhood - warren,08/07/2024,17:45
+scooter,420,york hall,08/08/2024,11:35
+bicycle,-1,3192 biomedical sciences way,08/08/2024,12:00
+scooter,-1,pepper canyon drive/ voigt drive,08/09/2024,07:45
+bicycle,70,ola parking,08/09/2024,03:15
+bicycle,500,pharmaceutical sciences building,08/09/2024,10:45
+bicycle,400,geisel library,08/12/2024,16:21
+bicycle,2000,mandler hall,08/13/2024,20:15
+scooter,150,price center plaza,08/14/2024,08:45
+scooter,500,black's beach - parking lot,08/14/2024,16:00
+bicycle,500,"1 miramar street, building 1",08/08/2024,07:15
+bicycle,310,fan-fan rw academic building,08/15/2024,20:10
+scooter,1,9500 gilman dr,08/19/2024,16:15
+bicycle,450,computer science and engineering building,08/21/2024,19:30
+bicycle,400,piedra building,08/21/2024,12:00
+bicycle,900,center for memory and recording research,08/25/2024,21:00
+scooter,-1,humanities & social sciences building,08/25/2024,03:30
+scooter,-1,rimac,08/26/2024,21:33
+bicycle,499,franklin antonio hall,08/27/2024,13:30
+bicycle,1000,miramar street,06/01/2024,12:52
+bicycle,73,miramar street,06/01/2024,14:31
+bicycle,200,miramar street,06/01/2024,02:30
+bicycle,-1,argo hall,06/02/2024,03:25
+bicycle,1000,jacobs hall,06/02/2024,15:30
+scooter,350,humanities &social sciences,06/04/2024,16:10
+scooter,500,york hall,05/29/2024,16:30
+bicycle,420,parking lot p703,06/05/2024,09:00
+scooter,399,peterson hall,05/29/2024,14:27
+bicycle,125,la jolla del sol apartments,06/06/2024,02:30
+scooter,550,physics and mathematics building,06/07/2024,15:30
+scooter,2300,center hall,06/08/2024,09:00
+bicycle,650,galathea hall,06/06/2024,06:00
+scooter,451,design and innovation building,06/08/2024,20:25
+bicycle,300,geisel library,06/10/2024,20:30
+scooter,300,rwac,06/10/2024,15:37
+scooter,440,sixth market,06/10/2024,14:30
+bicycle,4000,parking lot p418,06/10/2024,09:06
+scooter,750,trolley - central campus station,06/10/2024,20:37
+scooter,700,geisel library,06/10/2024,01:00
+scooter,529,york hall -  station,06/11/2024,13:00
+scooter,399,mesa apartments,06/07/2024,16:00
+bicycle,350,nuevo ,06/10/2024,21:50
+scooter,500,africa hall,05/09/2024,02:00
+scooter,600,gilman drive,06/13/2024,16:00
+bicycle,-1,structural & material engineering building,06/04/2024,17:15
+bicycle,150,the trove,06/27/2024,15:04
+bicycle,200,piedra,01/03/2024,12:00
+scooter,400,trolley - central campus station,01/06/2024,04:30
+scooter,760,tioga hall,12/27/2023,03:30
+scooter,800,africa hall,01/06/2024,19:30
+scooter,750,price center,01/06/2024,18:07
+scooter,700,trolley - central campus station,01/07/2024,16:37
+scooter,1200,price center  - target,01/07/2024,19:35
+bicycle,1750,galathea hall,12/27/2023,20:00
+scooter,600,warren lecture hall,01/08/2024,17:45
+scooter,549,tioga,12/28/2023,11:00
+bicycle,440,seventh college ,06/28/2024,01:30
+scooter,600,russell lane,01/09/2024,13:13
+scooter,399,pepper canyon apartments,01/09/2024,17:30
+bicycle,300,galathea hall,01/10/2024,11:30
+bicycle,250,piedra,12/31/2023,00:00
+bicycle,900,price center  - target,01/11/2024,17:10
+bicycle,400,conrad prebys music center,01/10/2024,17:30
+scooter,240,café ventanas,01/11/2024,20:15
+scooter,700,rimac,01/12/2024,12:07
+scooter,380,price center  - the trove,01/12/2024,16:43
+bicycle,800,fan-fan-rw academic building,01/12/2024,12:30
+bicycle,500,structural and material engineering building,01/14/2024,16:30
+bicycle,220,matthews apartments,07/17/2023,17:00
+scooter,699,center hall,01/16/2024,16:10
+scooter,1200,galbraith hall,01/18/2024,10:55
+scooter,650,fan-fan-rw academic building,01/18/2024,19:15
+bicycle,800,kaleidoscope,01/19/2024,15:00
+bicycle,670,argo hall,01/15/2024,05:00
+scooter,450,canyon vista,01/20/2024,04:30
+scooter,400,canyonview aquatic & climbing wall facility,01/20/2024,20:56
+scooter,800,rimac,01/20/2024,22:05
+bicycle,249,la jolla del sol apartments,01/19/2024,19:00
+scooter,450,trolley - central campus station,01/21/2024,15:15
+bicycle,449,pepper canyon apartments,01/20/2024,20:02
+scooter,599,geisel library,01/21/2024,19:17
+scooter,400,peterson hall,01/22/2024,17:25
+bicycle,700,brisa,01/21/2024,13:30
+bicycle,45,cala,01/21/2024,12:45
+scooter,400,franklin antonio hall,01/23/2024,14:00
+bicycle,300,astilla,01/23/2024,16:43
+scooter,500,trolley - central campus station,01/23/2024,19:00
+scooter,600,blake hall,01/24/2024,16:07
+scooter,1000,geisel library,01/24/2024,18:30
+scooter,420,main gymnasium,01/25/2024,19:35
+scooter,299,geisel library,01/25/2024,20:45
+bicycle,300,viento,01/24/2024,11:30
+scooter,700,muir biology building,01/26/2024,12:15
+scooter,130,atkinson hall,01/26/2024,19:07
+scooter,240,seventh college  #1,01/28/2024,00:17
+scooter,400,charles david keeling apartments,01/28/2024,19:48
+scooter,680,latin america hall,01/28/2024,23:01
+scooter,700,asante house,01/29/2024,04:00
+scooter,200,peterson hall,01/30/2024,08:40
+scooter,600,mandeville center,01/30/2024,10:10
+scooter,700,geisel library,01/31/2024,16:35
+bicycle,200,gilman drive,05/01/2024,23:30
+bicycle,410,seventh college,05/02/2024,03:15
+scooter,800,matthews apartments,05/04/2024,08:30
+scooter,450,preuss school,05/01/2024,13:00
+scooter,900,9330 eucalyptus lane,05/06/2024,12:00
+scooter,537,pepper canyon hall,04/29/2024,23:45
+bicycle,-1,piedra apartments,05/06/2024,15:30
+bicycle,400,jacobs medical center,05/08/2024,11:00
+scooter,-1,trolley - central campus,05/08/2024,16:42
+scooter,700,geisel library,05/08/2024,17:00
+scooter,2000,seventh college ,05/09/2024,07:00
+scooter,470,peterson hall,05/09/2024,19:45
+bicycle,200,library walk,04/22/2024,02:00
+bicycle,700,trolley - central campus station,05/12/2024,17:15
+scooter,400,pepper canyon hall,05/14/2024,19:10
+bicycle,2000,europe hall,05/12/2024,10:10
+scooter,250,pepper canyon hall,05/17/2024,14:25
+scooter,-1,uc san diego campus,05/17/2024,12:00
+bicycle,400,applied physics and mathematics,05/17/2024,16:40
+scooter,800,beagle hall,05/18/2024,13:40
+scooter,450,trolley - central campus station,05/18/2024,17:02
+bicycle,270,york hall,05/18/2024,14:00
+scooter,450,trolley - central campus station,05/19/2024,19:00
+bicycle,175,franklin antonio hall,05/19/2024,16:30
+bicycle,2000,mesa apartments - south,05/19/2024,03:30
+bicycle,300,cala,05/18/2024,02:00
+scooter,600,center hall - outside ,05/21/2024,11:00
+scooter,500,center hall,05/21/2024,17:40
+scooter,350,pepper canyon hall,05/22/2024,17:27
+scooter,400,rimac,05/21/2024,14:00
+bicycle,369,geisel library,05/22/2024,23:50
+bicycle,2000,kaleidoscope,05/23/2024,14:15
+scooter,479,ridge walk academic complex,05/23/2024,15:30
+bicycle,300,computer science & engineering building,05/19/2024,19:27
+scooter,300,hopkins drive,05/27/2024,07:30
+bicycle,700,douglas hall - ,05/27/2024,04:10
+scooter,350,center hall,05/28/2024,10:10
+scooter,700,brisa - 4th floor,05/30/2024,08:40
+scooter,80,dib makerspace/ lyman lane,05/30/2024,13:15
+bicycle,1600,rimac,02/01/2024,11:42
+bicycle,220,atlantis hall,02/01/2024,04:00
+scooter,400,center hall,02/01/2024,20:45
+scooter,300,center hall,02/02/2024,11:20
+bicycle,365,seventh college,02/02/2024,14:37
+scooter,-1,rita atkinson,01/31/2024,12:00
+bicycle,300,artesa,01/23/2024,03:00
+scooter,400,rita atkinson residences,02/04/2024,16:30
+scooter,600,geisel library,02/05/2024,14:30
+scooter,270,geisel library,02/06/2024,12:15
+bicycle,300,regents road,02/07/2024,14:52
+scooter,1050,applied physics & mathematics,02/08/2024,15:50
+bicycle,600,structural & material engineering building,02/08/2024,14:15
+scooter,700,center hall,02/08/2024,19:45
+scooter,500,humanities & social sciences building,02/08/2024,11:40
+bicycle,500,price center  - the trove,02/08/2024,22:45
+scooter,750,trolley - central campus station,02/09/2024,16:15
+bicycle,900,viento,02/11/2024,17:10
+bicycle,1035,kaleidoscope,02/11/2024,23:27
+scooter,506,goldberg apartments,02/12/2024,17:30
+bicycle,150,torrey pines center south - parking,02/05/2024,00:00
+scooter,500,humanities & social sciences,02/13/2024,13:10
+scooter,500,solis hall,02/15/2024,12:22
+scooter,600,geisel library,02/15/2024,18:30
+scooter,289,solis hall,02/15/2024,20:14
+scooter,300,gilman drive,02/15/2024,19:35
+bicycle,1300,asia hall,02/16/2024,04:30
+scooter,280,10065 scholars drive north,02/15/2024,15:30
+scooter,400,rw academic building - copa vida café,02/15/2024,19:00
+bicycle,199,center hall,02/17/2024,12:00
+scooter,-1,galbraith hall,02/21/2024,12:00
+scooter,900,biology building,02/22/2024,16:47
+scooter,450,pacific hall,02/22/2024,17:00
+bicycle,500,trolley - central campus station,02/22/2024,16:50
+scooter,1819,mesa apartments south,02/23/2024,04:45
+bicycle,800,asia hall,02/22/2024,17:35
+scooter,-1,trolley - central campus station,02/24/2024,19:19
+scooter,260,trolley - central campus station,02/24/2024,20:48
+scooter,270,mandeville center,02/24/2024,21:33
+bicycle,900,la jolla del sol apartments,02/24/2024,00:00
+scooter,700,canyon vista,02/24/2024,14:07
+scooter,799,theatre district,02/26/2024,09:50
+scooter,900,frankfurter hall,02/26/2024,17:30
+scooter,600,pepper canyon hall,02/26/2024,18:45
+scooter,360,pepper canyon hall,02/26/2024,18:45
+scooter,240,rimac,02/25/2024,14:22
+scooter,220,exploration drive,02/28/2024,12:30
+scooter,500,wells fargo hall,02/29/2024,16:40
+scooter,830,rimac,03/04/2024,18:30
+scooter,-1,canyon view aquatic & climbing wall,03/05/2024,16:00
+bicycle,3000,moores cancer center,03/05/2024,17:07
+scooter,700,geisel library,03/05/2024,19:40
+scooter,574,geisel library,03/07/2024,19:07
+bicycle,350,canyonview rec/ athletics administration,03/08/2024,15:37
+scooter,550,russell ln,03/08/2024,17:07
+scooter,370,pines resturant,03/08/2024,23:27
+scooter,320,sally t. wongavery library,03/10/2024,14:15
+bicycle,168,conrad prebys music center,03/10/2024,20:07
+scooter,300,franklin antonio hall,03/11/2024,15:10
+bicycle,200,argo hall,03/07/2024,16:45
+bicycle,200,argo hall,03/07/2024,04:45
+scooter,350,lyman lane,03/12/2024,17:25
+scooter,400,center hall,03/13/2024,21:27
+scooter,900,warren lecture hall,03/13/2024,15:05
+bicycle,355,charles david keeling apartments,03/14/2024,04:52
+scooter,370,pines restaurant,03/08/2024,23:27
+bicycle,1000,israni biomedical research facility,03/14/2024,13:00
+bicycle,200,discovery way,03/16/2024,07:50
+bicycle,1100,mesa apartments central,03/16/2024,02:00
+bicycle,100,keeling building,03/16/2024,02:05
+bicycle,150,blake hall,03/17/2024,03:30
+scooter,600,rimac - liontree arena,03/18/2024,15:40
+bicycle,599,mesa apartments central,03/16/2024,08:07
+bicycle,200,mesa apartments central,05/02/2024,06:45
+scooter,220,recreation gymnasium,03/19/2024,12:37
+bicycle,300,center hall,03/18/2024,02:42
+bicycle,2500, campus office building,03/19/2024,13:37
+bicycle,1000,ridge walk academic building,03/12/2024,17:30
+scooter,900,otterson hall,03/21/2024,15:25
+bicycle,500,geisel library,03/22/2024,01:00
+scooter,400,solis hall,03/22/2024,09:00
+scooter,450,ledden auditorium,03/22/2024,16:30
+scooter,700,main gym,03/22/2024,21:21
+bicycle,500,cala,02/21/2024,12:30
+bicycle,700,trolley - central campus station,03/29/2024,02:30
+scooter,300,design & innovation building,03/31/2024,12:00
+bicycle,150,geisel library,06/27/2024,12:22
+scooter,-1,mesa apartments central,06/28/2024,12:00
+scooter,-1,cala - 1st floor lobby,07/03/2024,16:32
+scooter,350,school of medicine building 1,07/04/2024,09:30
+bicycle,-1,jacobs medical center,07/03/2024,16:00
+scooter,799,kaleidoscope,07/04/2024,18:37
+bicycle,150,stein clinical research building,07/07/2024,09:00
+scooter,600,mesa verde hall,07/13/2024,10:28
+bicycle,3500,design and innovation lane,07/18/2024,15:53
+scooter,-1,mayer hall,07/18/2024,14:00
+scooter,100,target,07/19/2024,10:18
+bicycle,400,mesa apartments south,07/23/2024,04:15
+scooter,300,mesa apartments south,07/23/2024,12:45
+bicycle,20,trolley - central campus station,07/25/2024,22:00
+scooter,400,trolley- central campus station,01/27/2024,20:34
+scooter,380,york hall,07/30/2024,17:25
+scooter,400,scholars drive n,04/01/2024,22:30
+bicycle,350,canyon vista,02/29/2024,03:55
+scooter,500,trolley - central campus station,04/01/2024,08:42
+bicycle,250,theatre district drive,04/01/2024,01:50
+bicycle,1500,price center,04/01/2024,17:46
+bicycle,500,center hall,04/02/2024,13:05
+bicycle,190,rita atkinson,03/18/2024,01:15
+scooter,213,atkinson hall,04/03/2024,13:20
+scooter,270,social sciences building,04/03/2024,11:32
+scooter,300,thurgood marshall,04/05/2024,03:22
+scooter,300,otterson hall,04/05/2024,11:30
+scooter,400,seventh college  #1,04/06/2024,04:45
+bicycle,800,seventh college  #7,04/07/2024,02:22
+scooter,400,social sciences building,04/04/2024,15:15
+bicycle,-1,trolley - central campus,04/08/2024,19:35
+scooter,1049,marshall upper apartments,04/09/2024,04:25
+scooter,999,pines dining hall,04/10/2024,08:20
+scooter,250,ridge walk academic,04/09/2024,17:45
+bicycle,300,trolley - central campus station,04/11/2024,11:55
+scooter,-1,trolley - la jolla health station,04/07/2024,11:17
+bicycle,50,coast graduate housing,04/13/2024,07:30
+bicycle,840,pepper canyon apartments,04/14/2024,07:45
+bicycle,1000,argo hall,04/14/2024,09:45
+bicycle,2500,earth hall south,04/14/2024,17:00
+scooter,200,pepper canyon hall,04/16/2024,12:52
+scooter,300,"one miramar street, building 4",04/19/2024,05:45
+bicycle,100,torrey pines center - south,02/25/2024,00:00
+scooter,300,innovation lane,04/20/2024,03:00
+scooter,2500,viento,04/20/2024,12:50
+bicycle,900,tenaya hall,04/21/2024,04:22
+bicycle,1000,conrad prebys music center,04/19/2024,15:30
+bicycle,250,seventh college,04/17/2024,05:00
+bicycle,-1,neighborhood - coast apartments,04/23/2024,14:24
+scooter,275,9515 gilman drive - ,04/25/2024,09:50
+bicycle,65,"1 miramar street complex, between building #1 & #2",04/25/2024,12:36
+bicycle,200,latin america hall & north america hall,03/27/2024,12:00
+scooter,280,applied physics and mathematics,04/26/2024,16:00
+bicycle,50,argo hall,04/26/2024,16:03
+scooter,250,gilman drive,04/27/2024,05:10
+bicycle,500,warren lecture hall,04/28/2024,13:00
+scooter,-1,main gym,04/28/2024,19:02
+bicycle,900,"one miramar street, building 1",04/24/2024,04:00
+scooter,520,cater hall,04/29/2024,17:42
+bicycle,500,peterson hall,04/29/2024,14:22
+scooter,250,geisel library,04/29/2024,20:50
+scooter,479,trolley - central campus station,04/29/2024,18:15
+scooter,500,geisel library,04/29/2024,17:57
+scooter,800,geisel library,04/29/2024,20:27
+bicycle,-1,scholars drive north,04/30/2024,15:28
+scooter,750,trolley - central campus station,04/30/2024,21:07
+scooter,1000,pepper canyon hall,10/02/2024,17:45
+scooter,295,ledden auditorium,10/02/2024,17:25
+scooter,300,geisel library,10/02/2024,19:12
+scooter,235,jacobs hall,10/03/2024,17:19
+scooter,-1,york hall,10/04/2024,13:33
+scooter,500,galbraith hall,10/04/2024,11:55
+bicycle,350,miramar street,10/04/2024,14:05
+scooter,538,peterson hall,10/04/2024,14:15
+bicycle,300,seventh college  #6,10/05/2024,01:45
+bicycle,550,earth hall north,10/05/2024,02:45
+scooter,300,jacobs hall,10/05/2024,20:40
+scooter,700,franklin antonio hall,10/02/2024,18:00
+scooter,900,york hall,10/07/2024,12:30
+bicycle,1000,9865 towne centre drive,10/07/2024,16:29
+bicycle,500,wells fargo hall,10/07/2024,13:20
+scooter,-1,center hall,10/07/2024,17:30
+scooter,450,center hall,10/07/2024,17:37
+scooter,480,geisel library,10/07/2024,14:30
+bicycle,450,frankfurter hall,10/05/2024,21:29
+scooter,200,price center  - target,08/15/2024,16:30
+bicycle,50,gilman parking,10/08/2024,12:30
+scooter,600,voigt drive,10/07/2024,03:55
+scooter,377,trolley - central campus,10/08/2024,21:27
+bicycle,-1,sally t wongavery library,10/09/2024,14:05
+scooter,525,blake hall,10/09/2024,13:30
+scooter,-1,trolley - la jolla health station,10/09/2024,17:22
+scooter,530,social sciences research building,10/10/2024,12:25
+scooter,227,geisel library,10/10/2024,20:30
+scooter,400,pepper canyon hall,10/09/2024,20:52
+bicycle,100,tierra,10/10/2024,01:40
+scooter,300,muir biology and applied physics,10/11/2024,16:22
+bicycle,600,miramar street,10/11/2024,15:10
+scooter,400,innovation lane,10/07/2024,21:55
+bicycle,1000,york hall,10/12/2024,14:37
+skateboard,-1,marshall residential life,10/12/2024,23:19
+bicycle,1590,brisa,10/12/2024,23:27
+scooter,349,price center/target,10/11/2024,22:47
+scooter,-1,galbraith hall,10/11/2024,20:30
+scooter,-1,geisel library on hopkins drive,10/13/2024,21:47
+scooter,300,center hall,10/14/2024,10:15
+scooter,289,design and innovation building,10/14/2024,22:18
+scooter,500,gilman drive,10/14/2024,16:25
+scooter,250,center hall,10/15/2024,14:12
+scooter,650,geisel library,10/15/2024,15:27
+scooter,-1,york hall,10/16/2024,11:21
+bicycle,2000,azad,10/15/2024,17:00
+scooter,1000,geisel library,10/16/2024,17:00
+scooter,450,geisel library,10/16/2024,13:10
+scooter,379,ledden auditorium,10/11/2024,16:00
+scooter,625,center hall,10/17/2024,13:10
+scooter,400,biology building,10/15/2024,14:22
+scooter,400,biology building,10/17/2024,14:22
+scooter,250,geisel library,10/17/2024,16:00
+bicycle,300,pangea drive,10/18/2024,03:00
+bicycle,350,plant power - catalyst,10/18/2024,01:57
+scooter,188,pepper canyon hall,10/18/2024,14:10
+scooter,230,showa ramen,10/18/2024,17:25
+skateboard,850,applied mathematics and physics,10/19/2024,15:37
+bicycle,600,64 degrees,10/19/2024,20:19
+scooter,425,center hall,10/20/2024,04:30
+scooter,800,center hall,10/21/2024,16:26
+bicycle,400,la jolla del sol apartments,10/21/2024,02:00
+scooter,300,ridge walk academic building,10/21/2024,16:15
+scooter,400,geisel library,10/21/2024,16:15
+bicycle,3500,ledden auditorium,10/21/2024,19:45
+scooter,-1,central campus trolley,10/21/2024,19:15
+scooter,350,pepper canyon apartments,10/21/2024,20:44
+scooter,900,tioga hall,10/22/2024,02:07
+bicycle,175,thurgood marshall,10/22/2024,09:30
+bicycle,500,latin america hall,10/21/2024,04:00
+scooter,425,applied physics and mathematics,10/22/2024,15:10
+bicycle,1400,center hall,10/22/2024,16:00
+scooter,450,franklin antonio hall,10/22/2024,17:25
+scooter,300,trolley - central campus station,10/22/2024,05:00
+scooter,-1,trolley - central campus station,10/22/2024,19:16
+scooter,2500,ridge walk,10/22/2024,12:00
+bicycle,1100,geisel library,10/22/2024,17:45
+bicycle,180,"one miramar street, building 2",10/23/2024,04:15
+bicycle,-1,york hall,10/23/2024,12:29
+bicycle,525,wells fargo hall,10/23/2024,13:10
+bicycle,499,trolley - central campus station,10/16/2024,12:45
+scooter,300,pepper canyon hall,10/23/2024,12:20
+scooter,1000,warren lecture hall,10/23/2024,18:26
+scooter,200,pepper canyon hall,10/22/2024,01:00
+scooter,400,gilman drive,10/25/2024,12:25
+bicycle,599,podemos building,10/25/2024,14:20
+scooter,310,york hall,10/25/2024,19:32
+scooter,270,applied physics and mathematics,10/26/2024,13:35
+scooter,350,3350 innovation lane,10/26/2024,18:00
+skateboard,300,scholars parking structure,10/27/2024,11:46
+scooter,371,social sciences bldg.,10/27/2024,14:10
+scooter,170,pulse,10/27/2024,08:45
+scooter,499,campus emergency services building,10/28/2024,00:00
+scooter,350,center hall,10/28/2024,14:22
+bicycle,370,mandeville center,10/28/2024,14:40
+bicycle,275,catalyst,10/26/2024,17:37
+scooter,400,sally t. wongavery library,10/28/2024,18:40
+bicycle,400,harlan hall,10/28/2024,15:55
+bicycle,900,stewart hall,10/28/2024,03:42
+scooter,600,parking lot p602,10/29/2024,06:15
+scooter,299,main gymnasium,10/29/2024,15:42
+bicycle,-1,trolley- central campus station,10/28/2024,18:05
+scooter,300,pepper canyon  apartments,10/29/2024,12:00
+scooter,-1,price center  - starbucks,10/29/2024,20:30
+bicycle,-1,club med,10/30/2024,16:30
+scooter,-1,target,01/10/2019,17:52
+scooter,760,fan - fan - rw academic building,12/01/2023,11:55
+scooter,2000,showa ramen - rw academic buildong,12/01/2023,11:50
+scooter,800,franklin antonio hall,09/11/2023,14:24
+scooter,200,price center  - target,12/01/2023,00:25
+scooter,800,russell lane,09/11/2023,05:40
+bicycle,1300,the market at seventh college,12/02/2023,00:30
+bicycle,300,structural & material engineering bldg,12/03/2023,13:45
+scooter,450,sally t. wongavery library,12/03/2023,17:27
+bicycle,1500,geisel library,12/03/2023,19:15
+scooter,450,trolley - central campus station,12/04/2023,19:11
+bicycle,500,canyonview aquatic,12/04/2023,21:00
+bicycle,650,1 miramar st,12/01/2023,03:40
+scooter,450,trolley - central campus station,12/04/2023,17:30
+scooter,500,center hall,12/05/2023,15:57
+scooter,450,structural & material engineering building,12/06/2023,08:52
+bicycle,2000,price center ,12/06/2023,17:22
+bicycle,650,actri,12/05/2023,15:07
+bicycle,600,york hall,12/06/2023,12:00
+scooter,-1,ucsd medical center - hillcrest,12/05/2023,12:55
+bicycle,150,miramar street,12/06/2023,14:30
+scooter,800,russell ln,09/11/2023,06:30
+scooter,800,russell ln,09/12/2023,17:30
+scooter,800,russell ln,09/14/2023,05:30
+scooter,900,social science research building,12/07/2023,19:50
+bicycle,-1,geisel library,12/08/2023,17:07
+scooter,503,tenaya hall,12/08/2023,16:55
+scooter,700,geisel library,12/08/2023,23:34
+bicycle,250,artesa,12/09/2023,12:10
+scooter,300,price center ,12/09/2023,14:30
+bicycle,140,challenger hall,12/08/2023,23:45
+bicycle,2040,seventh college  #1,12/06/2023,02:15
+scooter,-1,trolley - central campus station,12/10/2023,14:09
+bicycle,300,tioga hall,11/26/2023,02:20
+bicycle,300,meteor hall,12/10/2023,00:40
+scooter,300,rady school of management,12/12/2023,09:30
+scooter,800,trolley - central campus station,12/13/2023,12:00
+scooter,500,geisel library,12/13/2023,14:45
+scooter,277,medical education and telemedicine,12/13/2023,19:45
+bicycle,1200,humanities and social sciences,12/14/2023,23:23
+bicycle,730,sixth market,12/12/2023,20:07
+scooter,280,target,12/16/2023,17:30
+scooter,800,scholars drive - south,12/17/2023,11:09
+scooter,400,theatre district drive,12/17/2023,13:43
+scooter,300,innovation lane,12/17/2023,18:15
+bicycle,1000,gilman dr,12/18/2023,13:22
+bicycle,1330,one miramar street,12/18/2023,23:11
+scooter,263,giesel library,12/21/2023,11:47
+scooter,800,viento,09/18/2023,03:30
+scooter,650,asante hall,12/28/2023,15:00
+bicycle,1200,mesa apartments south,12/24/2023,13:00
+bicycle,100,cala,12/28/2023,05:16
+scooter,359,trolley - central campus station,12/30/2024,20:15
+scooter,400,franklin antonio hall,09/01/2023,14:45
+bicycle,400,la jolla del sol apartments,09/01/2023,03:45
+bicycle,2000,john's place & market,09/02/2023,16:50
+scooter,500,design and innovation building,09/02/2023,11:25
+bicycle,1000,astilla,09/04/2023,14:00
+bicycle,300,thurgood marshall res halls,09/06/2023,20:03
+bicycle,120,urey hall,09/08/2023,02:00
+bicycle,6000,torrey pines center north,09/12/2023,11:30
+bicycle,500,artesa,09/05/2023,12:47
+bicycle,699,neighborhood - tdll,09/13/2023,14:30
+bicycle,8000,north torrey pines parking lot,09/12/2023,11:30
+bicycle,500,mesa apartments south,09/16/2023,07:11
+scooter,250,rimac annex,09/18/2023,12:25
+scooter,300,rimac annex,09/18/2023,12:37
+bicycle,400,computer science and engineering building,09/19/2023,12:35
+bicycle,400,voigt drive,09/19/2023,12:35
+bicycle,500,pepper canyon lane,09/21/2023,12:25
+scooter,300,stein clinical research building,09/22/2023,14:22
+bicycle,360,target,09/22/2023,16:55
+bicycle,-1,library walk san diego,09/22/2023,17:02
+bicycle,-1,one miramar st,09/21/2023,18:40
+bicycle,2300,rimac,09/26/2023,20:22
+scooter,-1,muir biology building,09/26/2023,20:50
+scooter,1300,canyonview rec/athletics administration,09/27/2023,10:15
+bicycle,2000,hopkins dr,09/26/2023,20:15
+bicycle,200,regents road,09/26/2023,22:10
+bicycle,900,exchange,09/24/2023,17:45
+bicycle,50,pepper canyon apartments,09/27/2023,09:52
+scooter,500,seventh college ,09/27/2023,22:30
+scooter,275,town square,09/27/2023,15:05
+bicycle,300,cala,09/28/2023,00:45
+bicycle,300,matthews apartments,09/28/2023,14:30
+scooter,648,trolley - central campus station,09/28/2023,20:00
+bicycle,500,marshall college,09/29/2023,01:15
+scooter,750,atlantis hall,09/27/2023,15:15
+bicycle,700,scholars dr n.,09/30/2023,00:30
+scooter,300,rimac,09/30/2023,21:57
+scooter,300,trolley - central campus station,10/01/2023,18:55
+bicycle,150,frankfurter hall,10/01/2023,18:42
+bicycle,350,otterson hall,10/02/2023,09:30
+scooter,650,galbraith hall,10/02/2023,14:23
+bicycle,1400,center hall,10/03/2023,09:07
+scooter,400,trolley - central campus station (),10/03/2023,10:10
+bicycle,2000,sally t. wongavery library,10/03/2023,18:31
+scooter,400,center hall,10/03/2023,10:10
+bicycle,200,tapestry  locker,10/03/2023,14:15
+bicycle,370,tioga hall,10/05/2023,01:00
+scooter,450,design and innovation bldg,10/05/2023,22:23
+scooter,1485,rimac,10/06/2023,07:25
+scooter,650,trolley - central campus station,10/06/2023,16:22
+scooter,400,matthew ln,10/06/2023,19:00
+bicycle,950,piedra,10/06/2023,03:15
+scooter,545,center hall,10/05/2023,22:47
+scooter,500,the village at torrey pines,10/09/2023,16:20
+scooter,530,meteor hall,10/09/2023,06:00
+scooter,300,marshall residence hall p,10/10/2023,16:12
+bicycle,750,applied physics and mathematics,10/10/2023,20:30
+bicycle,1600,warren lecture hall,10/10/2023,20:30
+bicycle,450,gilman dr,10/11/2023,07:22
+scooter,600,jacobs school of engineering,10/11/2023,10:00
+scooter,630,gilman dr,10/11/2023,14:25
+scooter,500,seventh college ,10/09/2023,16:30
+scooter,500,pepper canyon apartments,10/08/2023,14:05
+bicycle,1000,north america hall,10/11/2023,23:50
+scooter,300,warren lecture hall,10/12/2023,14:15
+scooter,425,trolley - central campus station,10/12/2023,18:45
+bicycle,400,seventh college  building 6,10/12/2023,16:36
+scooter,300,theatre district dr.,10/14/2023,01:45
+bicycle,698,trolley - central campus station,10/14/2023,15:00
+bicycle,200,peterson hall,10/14/2023,20:47
+scooter,380,main gym,10/15/2023,02:45
+bicycle,100,sixth college market,10/15/2023,00:32
+scooter,420,design & innovation building,10/16/2023,12:47
+bicycle,541,franklin antonio hall,10/16/2023,17:40
+scooter,279,miramar street,10/16/2023,17:45
+scooter,450,discovery hall,10/15/2023,01:50
+bicycle,500,villa la jolla,10/16/2023,07:10
+bicycle,519,piedra - 9th floor  hangers,10/19/2023,01:35
+bicycle,-1,applied physics & mathematics,10/19/2023,11:45
+bicycle,-1,trolley - central campus station,10/19/2023,19:00
+bicycle,-1,trolley - central campus station,10/19/2023,18:26
+scooter,500,matthews apartments a,10/20/2023,15:00
+bicycle,150,mesa - south,10/20/2023,21:30
+bicycle,500,matthews apartments,10/20/2023,21:30
+bicycle,500,price center ,10/21/2023,09:30
+bicycle,1720,price center ,10/21/2023,13:58
+scooter,270,gilman drive,10/22/2023,01:25
+scooter,1000,trolley - uc central campus stop,10/22/2023,18:45
+bicycle,250,structural materials engineering building,10/23/2023,15:30
+bicycle,690,pangea parking lot,10/23/2023,09:30
+bicycle,1000,tdlln - podemos,10/22/2023,03:30
+scooter,700,mandeville center,10/24/2023,10:15
+bicycle,-1,"one miramar street, bldg 2",10/24/2023,19:19
+scooter,300,pepper canyon hall,10/25/2023,09:37
+scooter,200,warren lecture hall,10/25/2023,11:25
+bicycle,150,center hall,10/21/2023,16:30
+bicycle,900,seventh college  #1,10/26/2023,03:15
+bicycle,200,pepper canyon apartments,10/26/2023,12:30
+scooter,-1,center hall,10/26/2023,16:24
+scooter,600,harlan hall,10/28/2023,00:02
+scooter,299,structural and material engineering bldg,10/28/2023,10:07
+scooter,600,trolley - central campus station,10/28/2023,03:22
+scooter,600,kaleidoscope,10/28/2023,04:30
+scooter,700,geisel library,10/29/2023,15:00
+scooter,1000,central campus trolley,10/29/2023,15:00
+scooter,200,central campus trolley,10/29/2023,14:30
+bicycle,-1,thurgood marshall res hall,10/23/2023,12:00
+scooter,850,trolley - central campus station,10/29/2023,03:45
+scooter,600,geisel library,10/31/2023,11:30
+scooter,400,ucsd police department,08/03/2023,12:15
+bicycle,420,canyonview aquatic & climbing wall facility,08/03/2023,18:20
+bicycle,60,viento,08/04/2023,02:30
+scooter,549,trolley - central campus station,08/04/2023,13:00
+bicycle,300,regents rd,08/04/2023,19:15
+bicycle,549,mandeville lane,08/03/2023,19:12
+bicycle,300,ucsd bookstore,08/07/2023,16:30
+scooter,300,skaggs pharmaceutical sciences building,08/10/2023,13:35
+bicycle,500,geisel library - ,08/10/2023,17:37
+scooter,200,"one miramar street, bldg 2",08/11/2023,08:30
+bicycle,500,one miramar street,08/12/2023,04:30
+bicycle,290,"1 miramar street, la jolla",08/09/2023,17:37
+bicycle,420,sixth market - mosaic,08/13/2023,02:20
+bicycle,910,one miramar street - building 4,08/11/2023,17:45
+scooter,500,sme building,08/14/2023,15:37
+scooter,350,computer science and engineering building,08/14/2023,13:30
+scooter,449,ucsd central campus trolley station,08/14/2023,15:30
+scooter,619,geisel library,08/16/2023,18:07
+bicycle,4000,tierra,08/21/2023,03:45
+scooter,500,structural & material engineering bldg,08/22/2023,12:25
+scooter,-1,trolley - central campus station,08/22/2023,21:20
+scooter,399,design and innovation building,08/23/2023,01:47
+bicycle,1299,brisa,08/24/2023,18:10
+scooter,350,warren residential hall,06/16/2023,12:00
+bicycle,500,nuevo  - porton,08/25/2023,18:49
+scooter,-1,trolley - central campus station,08/26/2023,19:10
+bicycle,1200,peppery canyon apartments,08/26/2023,13:30
+scooter,349,student services center,08/30/2023,12:00
+scooter,500,voigt drive,10/31/2023,18:55
+bicycle,150,miramar street,11/01/2023,09:10
+scooter,25,center hall,10/30/2023,19:25
+scooter,460,fan - fan -rw academic bldg,10/31/2023,17:20
+bicycle,100,greenhouse lane,10/30/2023,13:00
+bicycle,150,scholars drive - north,10/31/2023,03:30
+scooter,400,geisel library,11/03/2023,12:00
+skateboard,150,justice lane,10/31/2023,22:15
+scooter,650,russell lane,11/03/2023,22:00
+scooter,700,ucsd residential area,11/05/2023,05:55
+bicycle,100,viento,11/04/2023,18:30
+scooter,350,ucsd train station,11/05/2023,20:30
+scooter,1600,geisel library,11/05/2023,23:00
+bicycle,400,9450 innovation lane,11/05/2023,21:30
+bicycle,90,leichtag family foundation,11/04/2023,16:25
+bicycle,400,center hall,11/06/2023,10:30
+scooter,700,design & innovations bldg,11/05/2023,21:35
+bicycle,800,cognitive sciences building,11/06/2023,16:22
+scooter,850,structural & material engineering bldg,11/06/2023,19:15
+scooter,450,geisel library,11/06/2023,22:27
+scooter,600,center hall,11/04/2023,18:30
+bicycle,-1,trolley - la jolla health station,11/05/2023,16:04
+scooter,300,applied physics & mathematics,11/07/2023,18:10
+scooter,148,franklin antonio hall,11/07/2023,20:35
+bicycle,450,podemos bldg,11/08/2023,04:10
+scooter,1200,trolley - central campus station,11/08/2023,16:40
+bicycle,250,center hall,11/08/2023,22:00
+scooter,600,geneva hall,11/09/2023,12:30
+bicycle,750,warren lecture hall,11/09/2023,19:22
+bicycle,550,humanities & social sciences,11/10/2023,14:00
+bicycle,599,humanities & social sciences,11/10/2023,13:50
+scooter,323,peterson hall,11/10/2023,21:15
+bicycle,-1,geneva hall,11/11/2023,04:30
+scooter,300,trolley - central campus station,11/12/2023,14:00
+scooter,515,seventh college  #1,11/12/2023,17:30
+scooter,499,meteor hall,11/12/2023,19:06
+scooter,350,seventh college  #3,11/12/2023,09:25
+bicycle,300,structural & material engineering bldg,11/13/2023,16:32
+scooter,450,mandeville center,11/14/2023,14:10
+scooter,2000,hopkins parking structure,11/15/2023,10:35
+bicycle,450,voigt drive,11/15/2023,11:30
+bicycle,-1,copa vida café,11/17/2023,13:44
+bicycle,800,tenaya hall,11/13/2023,12:00
+scooter,600,podemos,11/17/2023,19:32
+scooter,460,main gymnasium,11/18/2023,13:22
+scooter,500,geisel library,11/18/2023,16:49
+scooter,300,trolley - central campus station,11/18/2023,19:02
+scooter,-1,trolley - central campus station,11/19/2023,14:07
+scooter,279,trolley - central campus station,11/19/2023,15:45
+scooter,200,price center  - the trove,11/19/2023,20:04
+bicycle,2000,thurgood marshall res hall p,11/19/2023,07:30
+bicycle,700,center hall,11/19/2023,19:07
+scooter,700,geisel library,11/19/2023,20:00
+scooter,750,parking lot 418,11/17/2023,14:50
+scooter,950,10285 north point ln,09/13/2023,03:40
+bicycle,200,humanities & social sciences,11/17/2023,16:08
+scooter,400,otterson hall,11/20/2023,16:30
+scooter,300,warren lecture hall,11/21/2023,12:02
+bicycle,100,africa hall,11/17/2023,23:59
+scooter,400,conrad preby's music center,11/22/2023,11:20
+bicycle,300,harlan hall,11/24/2023,03:32
+scooter,400,main gymnasium,11/26/2023,21:15
+scooter,490,warren lecture hall,11/27/2023,11:00
+scooter,400,"seventh college , bldg 1",11/27/2023,02:40
+bicycle,700,blake hall,11/28/2023,07:40
+bicycle,3600,galathea hall ,11/28/2023,21:30
+scooter,-1,tenaya hall,11/29/2023,11:43
+scooter,540,mcgill hall,11/29/2023,14:35
+scooter,900,geisel library,11/11/2023,18:52
+scooter,400,york hall,11/30/2023,09:32
+scooter,420,york hall,11/30/2023,08:40
+scooter,500,seventh college  #1,11/29/2023,13:30
+scooter,625,tapestry,11/30/2023,05:45
+scooter,500,keeling apartments gym,11/30/2023,00:15
+scooter,500,avery wong library,11/30/2023,19:15
+scooter,500,tapestry,11/30/2023,05:55
+bicycle,1200,matthews lane,06/01/2023,02:52
+bicycle,128,pepper canyon  apartment,06/01/2023,18:35
+bicycle,-1,thornton,06/02/2023,06:15
+scooter,500,central campus station,06/05/2023,06:47
+scooter,800,cse building,06/06/2023,00:00
+scooter,299,discovery hall,06/06/2023,04:00
+scooter,419,geisel,06/06/2023,15:20
+scooter,289,gilman dr,06/07/2023,12:30
+scooter,600,muir ln,06/07/2023,20:50
+bicycle,450,center hall,06/07/2023,06:00
+scooter,631,school of medicine - building 3,06/04/2023,10:30
+scooter,800,matthews ln,06/08/2023,18:22
+scooter,1000,geisel library,06/10/2023,21:30
+scooter,700,york hall,06/09/2023,23:45
+bicycle,250,innovation ln,06/10/2023,12:03
+scooter,400,blake hall,06/10/2023,13:20
+bicycle,-1,one miramar st,06/10/2023,17:43
+scooter,400,central campus station,06/10/2023,17:00
+scooter,600,geisel library,06/10/2023,22:07
+scooter,766,geisel library,06/10/2023,22:15
+bicycle,1600,tioga hall,06/12/2023,17:24
+bicycle,1200,warren lecture hall,06/12/2023,21:58
+bicycle,100,atlantis hall,06/12/2023,03:25
+bicycle,200,price center plaza,06/12/2023,23:14
+scooter,2400,central campus trolley,06/13/2023,18:42
+scooter,600,gilman drive,06/13/2023,20:07
+scooter,350,warren lecture hall,06/14/2023,15:52
+bicycle,360,regents road,06/15/2023,04:35
+bicycle,-1,regents road,06/15/2023,03:07
+bicycle,249,south scholars drive,06/16/2023,11:30
+skateboard,680,lot p406,06/17/2023,02:15
+skateboard,-1,ucsd medical center - hillcrest,06/18/2023,23:35
+bicycle,303,voigt dr,06/21/2023,16:10
+bicycle,300,pangea parking,06/21/2023,13:32
+scooter,410,gymnasium,06/24/2023,18:04
+bicycle,200,miramar street,06/25/2023,00:00
+bicycle,213,target - price center,06/26/2023,18:01
+scooter,420,center for neural circuits and behavior,06/28/2023,15:58
+bicycle,2000,canyonview aquatic & climbing wall facility,06/30/2023,09:49
+scooter,500,center hall,01/31/2023,21:30
+bicycle,600,gilman dr,01/31/2023,08:00
+bicycle,80,voigt dr,02/01/2023,20:30
+bicycle,-1,charles david keeling apts 3,02/03/2023,01:40
+scooter,720,pepper canyon hall,02/03/2023,11:25
+scooter,-1,target,02/03/2023,17:15
+scooter,500,showa ramen - ,02/03/2023,16:30
+scooter,1000,gilman dr,02/04/2023,05:45
+bicycle,700,gilman dr,02/03/2023,16:30
+bicycle,1200,gilman dr,02/04/2023,13:12
+scooter,520,charles david keeling apartments,02/04/2023,15:03
+scooter,350,gilman dr,02/03/2023,22:10
+scooter,450,tamarack apts,02/05/2023,19:22
+bicycle,200,tenaya hall - ,02/05/2023,02:45
+bicycle,450,tioga hall north,02/04/2023,20:00
+bicycle,800,"keeling apt, 5th floor ",02/03/2023,02:55
+bicycle,200,beagle hall - south ,02/07/2023,12:00
+scooter,880,peterson hall,02/08/2023,14:10
+scooter,400,catalyst parking structure - ,02/03/2023,15:00
+scooter,800,york hall,02/11/2023,11:45
+scooter,300,laurel extension,02/10/2023,23:45
+bicycle,500,rita atkinson residences,02/10/2023,00:30
+bicycle,200,mesa apartments south,02/13/2023,11:00
+scooter,500,center hall,02/13/2023,17:40
+scooter,1500,mandell weiss ln,02/13/2023,21:30
+bicycle,120,mesa apartments,02/10/2023,09:43
+bicycle,-1,argo hall,02/14/2023,11:20
+scooter,530,gilman dr,02/14/2023,03:10
+scooter,1200,gilman dr,02/15/2023,02:25
+scooter,400,3811 miramar st,02/15/2023,07:35
+scooter,1200,uc health,02/14/2023,22:15
+scooter,1200,9155 mandell weiss,02/07/2023,19:35
+scooter,1200,voigt dr / scripps memorial hospital,02/11/2023,16:48
+scooter,1200,9505 s scholars dr,01/29/2023,18:58
+scooter,1200,6 scholars dr n,02/14/2023,20:50
+scooter,1200,10116 scholars dr n,02/11/2023,00:26
+scooter,500,n scholars dr,02/09/2023,17:30
+scooter,400,miramar st,01/07/2023,05:43
+scooter,2000,health sciences dr,02/12/2023,07:07
+scooter,600,visual arts facility,02/17/2023,11:30
+scooter,500,pepper canyon hall,02/17/2023,11:55
+bicycle,300,trolley - central campus station,02/17/2023,12:37
+scooter,500,pepper canyon hall,02/17/2023,14:54
+scooter,600,leichtag biomedical research,02/17/2023,12:30
+scooter,600,central campus trolley,02/18/2023,13:00
+scooter,2000,lyman ln,01/03/2023,16:56
+scooter,1500,trolley - la jolla health,02/20/2023,20:46
+scooter,400,the trove - price center ,02/20/2023,22:53
+scooter,400,center for novel therapeutics,01/05/2023,16:04
+scooter,1200,lot p508,01/08/2023,07:28
+bicycle,400,equality ln,01/02/2023,09:47
+bicycle,400,equality ln,12/31/2023,21:29
+scooter,600,stewart hall,02/21/2023,21:15
+bicycle,400,mesa nueva,12/31/2022,15:29
+scooter,1200,scholars ln,01/13/2023,01:42
+scooter,400,gilman parking structure,01/03/2023,08:02
+scooter,1200,matthews ln,01/10/2023,15:33
+scooter,1200,mandell weiss ln,01/19/2023,01:30
+scooter,1200,eucalyptus grove ln,01/12/2023,09:47
+bicycle,1500,eco flat  bldg 4,08/23/2022,17:45
+scooter,529,galathea hall,02/23/2023,00:30
+bicycle,1800,north point ln,02/08/2023,09:46
+scooter,1200,9101 gilman dr,02/12/2023,22:50
+scooter,1200,1 miramar st,02/19/2023,08:51
+bicycle,1500,487 grand theft,02/16/2023,17:40
+scooter,1200,4715 voigt dr,02/11/2023,10:53
+bicycle,180,ucsd main gym,02/22/2023,13:09
+bicycle,369,price center ,02/24/2023,00:35
+bicycle,448,one miramar bldg 4,02/25/2023,09:00
+scooter,700,yogurt world,02/25/2023,19:10
+bicycle,2,structural and material engineering,02/26/2023,09:00
+scooter,450,sixth market,02/28/2023,05:30
+scooter,400,pepper canyon hall,02/28/2023,07:15
+scooter,526,innovation lane,07/02/2023,00:30
+bicycle,150,miramar street,07/01/2023,20:47
+scooter,700,the trove - price center ,07/03/2023,16:29
+bicycle,150,tapestry north side,07/01/2023,12:30
+scooter,1000,innovation lane,07/06/2023,17:52
+bicycle,-1,scholars drive,07/07/2023,06:08
+bicycle,870,innovation lane,07/07/2023,09:20
+bicycle,100,gilman dr,07/08/2023,14:00
+bicycle,300,regents rd,06/25/2023,16:30
+bicycle,1500,trolley - central campus station,07/11/2023,12:15
+scooter,500,hopkins dr,07/13/2023,09:30
+scooter,518,main gym,07/15/2023,13:30
+scooter,849,gilman drive,07/17/2023,14:12
+bicycle,250,nuevo ,07/17/2023,13:15
+scooter,515,york hall,07/18/2023,14:52
+bicycle,100,gilman drive,07/18/2023,16:30
+bicycle,-1,center for neural circuits & behavior,07/19/2023,18:33
+bicycle,950,franklin antonio hall,07/19/2023,08:30
+skateboard,150,south mesa,07/19/2023,21:42
+bicycle,1000,innovation lane,07/21/2023,14:30
+bicycle,600,miramar street,07/22/2023,14:50
+bicycle,593,la jolla del sol apartments,07/23/2023,06:00
+bicycle,3750,muir college drive,07/23/2023,12:30
+bicycle,600,tamarack apartments,07/22/2023,00:50
+scooter,990,york hall,07/24/2023,16:30
+bicycle,380,library walk,07/26/2023,16:05
+bicycle,-1,redwood drive,07/27/2023,03:00
+bicycle,450,regents rd,07/27/2023,11:02
+bicycle,250,marshall uppers,07/19/2023,01:55
+scooter,800,pepper canyon lodge,07/27/2023,04:00
+bicycle,200,lebron drive,07/26/2023,07:25
+bicycle,200,cmme,07/29/2023,03:40
+bicycle,400,geisel library,07/31/2023,16:45
+scooter,2000,lot p702,12/29/2022,17:20
+scooter,1200,lot p702,02/14/2023,23:33
+scooter,2000,conrad prebys music center,12/29/2022,17:20
+scooter,1200,lot 702,02/14/2023,23:33
+bicycle,50,gilman drive,04/03/2023,07:55
+scooter,600,gilman drive/la jolla,04/03/2023,09:44
+scooter,450,yogurt world,04/03/2023,19:37
+scooter,1200,lot p702,02/14/2023,18:47
+scooter,800,justice lane,04/02/2023,11:52
+scooter,1200,voigt drive,03/09/2023,04:45
+scooter,1200,voigt drive,03/16/2023,11:55
+scooter,1200,voigt drive,03/09/2023,03:02
+scooter,1200,gilman drive,01/10/2023,19:05
+scooter,800,lot p702,03/23/2023,12:06
+scooter,1200,gilman drive,01/17/2023,19:59
+scooter,800,voigt drive,03/20/2023,12:45
+scooter,800,san diego 92161,01/20/2023,00:22
+scooter,800,peterson hall,04/03/2023,20:53
+scooter,800,voigt drive,03/20/2023,10:28
+scooter,1200,osler lane,01/14/2023,23:11
+scooter,1200,gilman drive,01/26/2023,16:31
+scooter,1800,meyers drive,01/19/2023,20:05
+scooter,1200,gilman drive,01/22/2023,04:05
+scooter,1800,gilman drive,01/24/2023,14:17
+scooter,1200,engineering building unit 2,03/17/2023,16:23
+scooter,1200,meyers drive,01/22/2023,04:28
+scooter,1200,gilman drive,01/22/2023,03:05
+scooter,800,gilman drive,03/26/2023,20:15
+scooter,420,russell lane,04/05/2023,19:49
+scooter,1800,gilman drive,02/27/2023,20:33
+scooter,1200,la jolla village drive,01/19/2023,10:48
+scooter,390,conrad prebys music center,04/05/2023,20:22
+bicycle,646,rimac,04/06/2023,05:50
+bicycle,400,bernice drive,04/09/2023,12:00
+scooter,600,center hall,04/10/2023,17:20
+bicycle,416,black hall - ,04/10/2023,12:07
+scooter,600,center hall,04/10/2023,19:25
+scooter,600,pepper canyon hall,04/11/2023,08:55
+scooter,500,center hall,04/11/2023,16:20
+scooter,600,cuzco house ,04/11/2023,03:15
+scooter,350,ledden auditorium,04/12/2023,14:30
+scooter,399,center hall,04/12/2023,16:25
+bicycle,200,center lecture hall,04/11/2023,20:00
+scooter,650,solis hall,04/13/2023,13:07
+bicycle,100,ucsd central campus trolley,04/13/2023,05:00
+scooter,1000,9500 gilman dr,04/14/2023,04:40
+scooter,530,pangea parking structure,04/12/2023,02:30
+bicycle,-1,hopkins dr,04/16/2023,07:50
+bicycle,1000,seventh college ,04/16/2023,14:30
+scooter,600,pangea parking,04/15/2023,15:30
+scooter,750,warren lecture hall,04/15/2023,01:25
+scooter,400,pepper canyon,04/18/2023,19:10
+scooter,400,ucsd police department,04/19/2023,15:04
+bicycle,-1,solis hall,04/19/2023,22:53
+scooter,300,gilman dr,04/19/2023,20:42
+scooter,800,bistro at the strand,04/20/2023,10:00
+bicycle,200,rita atkinson residences,04/16/2023,00:57
+scooter,900,pepper canyon apartments,04/19/2023,22:30
+scooter,400,pepper canyon apartments,04/20/2023,00:30
+skateboard,-1,rimac,04/20/2023,16:47
+scooter,320,voigt dr,04/20/2023,21:22
+bicycle,1300,geisel library,04/20/2023,21:30
+bicycle,-1,seventh college ,04/21/2023,18:17
+scooter,500,pepper canyon hall,04/22/2023,15:00
+bicycle,-1,franklin antonio hall,04/22/2023,16:10
+scooter,550,trolley - central campus station,04/22/2023,14:01
+bicycle,100,via allicante,04/24/2023,12:21
+bicycle,340,gilman drive,04/24/2023,14:22
+scooter,800,center hall,04/25/2023,09:14
+bicycle,800,canyon view pool,04/23/2023,15:37
+scooter,600,gilman drive,04/26/2023,17:25
+scooter,800,york hall,04/28/2023,16:30
+scooter,700,trolley - central campus station,04/29/2023,20:20
+bicycle,250,ucsd campus central station,01/05/2023,09:35
+bicycle,300,la jolla del sol apartments,01/07/2023,18:55
+bicycle,500,gilman dr,01/08/2023,04:25
+bicycle,600,middle earth hall,12/23/2022,20:00
+bicycle,785,miramar st,01/09/2023,09:10
+bicycle,750,gilman dr,12/25/2022,04:10
+bicycle,500,gilman dr,12/23/2022,01:00
+bicycle,760,scholars dr north,12/25/2022,19:30
+bicycle,309,asia hall,06/28/2022,08:30
+bicycle,1399,sixth college,01/09/2023,23:00
+scooter,-1,rimac,01/10/2023,20:26
+scooter,800,library walk,01/12/2023,10:10
+scooter,450,center hall,01/12/2023,14:12
+scooter,800,center hall,01/12/2023,10:10
+scooter,500,blacks beach gate,01/13/2023,22:15
+scooter,400,trolley - central campus station,01/15/2023,14:45
+scooter,800,canyon vista,01/15/2023,12:15
+bicycle,40,main gymnasium,01/17/2023,10:00
+bicycle,650,price center,01/18/2023,18:01
+bicycle,400,price center,01/20/2023,13:15
+scooter,800,ebu 2,01/23/2023,14:02
+bicycle,399,tenaya hall - ,01/22/2023,01:52
+scooter,799,geisel library,01/23/2023,23:00
+scooter,1800,3991 health sciences dr,01/01/2023,05:28
+bicycle,1500,elenore roosevelt college administration,01/25/2023,03:22
+scooter,550,canyon view aquatic & climbing facility,01/25/2023,14:07
+scooter,500,franklin antonio hall,01/26/2023,17:33
+bicycle,1050,trolley - la jolla health station,01/27/2023,21:46
+bicycle,200,erc,01/24/2023,01:30
+scooter,308,trolley - central campus station,01/28/2023,09:30
+bicycle,200,catalyst,01/25/2023,02:00
+bicycle,400,seventh college,01/31/2023,03:00
+scooter,600,rimac,01/30/2023,20:15
+scooter,400,urey hall,01/31/2023,10:00
+bicycle,1700,n scholars dr,01/29/2023,04:00
+scooter,700,center hall,03/01/2023,12:25
+scooter,1800,lot 702,01/18/2023,09:58
+scooter,1800,lot 101,01/15/2023,16:27
+scooter,1800,lot 003,01/13/2023,03:37
+scooter,400,otterson hall,03/02/2023,10:30
+bicycle,560,64 degrees - ,03/02/2023,18:40
+scooter,600,central campus trolley,03/03/2023,21:45
+bicycle,-1,innovation ln,03/04/2023,07:02
+scooter,300,price center south expansion,03/06/2023,04:40
+scooter,350,black apartments,03/06/2023,03:00
+bicycle,1800,gilman dr,01/13/2023,23:00
+scooter,1200,russell ln,03/01/2023,20:58
+scooter,1200,gilman dr,02/28/2023,21:01
+scooter,1200,gilman dr,02/24/2023,08:37
+scooter,1200,lot p702,02/19/2023,16:21
+scooter,1200,voigt dr,02/22/2023,14:29
+scooter,1200,gilman dr,02/26/2023,07:31
+scooter,1200,scholars dr n,02/26/2023,10:32
+scooter,1200,lyman ln,03/06/2023,14:47
+scooter,800,gilman dr / front of yogurt world,03/07/2023,19:41
+bicycle,300,gilman dr,02/24/2023,13:00
+scooter,320,center hall,03/11/2023,22:59
+scooter,850,innovation lane,03/12/2023,17:52
+scooter,1200,russel ln,01/25/2023,06:49
+scooter,1200,biomedical sciences way,01/14/2023,06:23
+scooter,1200,mandell weiss,01/13/2023,23:01
+scooter,1200,innovation lane,03/06/2023,14:47
+scooter,1200,scholars ln,01/13/2023,18:46
+scooter,1200,eucalyptus grove ln,01/13/2023,22:29
+scooter,1200,scholars ln,01/14/2023,01:57
+scooter,300,warren lecture hall,03/17/2023,17:29
+scooter,525,geisel library,03/18/2023,18:30
+bicycle,80,peterson hall,03/18/2023,23:06
+scooter,1200,scholars dr north,01/15/2023,06:44
+scooter,600,otterson hall,03/20/2023,15:45
+scooter,1200,meyers dr,03/18/2023,02:51
+scooter,800,mandell weiss ln,03/19/2023,07:11
+scooter,800,meyers dr,03/16/2023,20:07
+scooter,800,voigt dr,03/21/2023,18:49
+scooter,1200,rupertus ln,03/17/2023,14:53
+scooter,1200,innovation ln,03/15/2023,11:48
+scooter,1200,mandell weiss ln,03/08/2023,02:07
+scooter,1200,lot p702,03/16/2023,11:55
+scooter,1200,mandell weiss ln,03/09/2023,00:02
+scooter,1200,muir ln,03/12/2023,14:24
+scooter,1200,voigt dr,03/12/2023,12:12
+scooter,1200,voigt dr,03/16/2023,00:43
+scooter,1800,la jolla village dr,03/16/2023,08:22
+scooter,1800,miramar st,03/20/2023,12:56
+bicycle,1800,matthews ln,03/18/2023,11:05
+bicycle,1800,health sciences drive,03/24/2023,22:19
+bicycle,800,health sciences drive,03/23/2023,14:34
+scooter,740,target pc-south,03/29/2023,20:25
+bicycle,400,scholars lane,03/30/2023,09:44
+scooter,850,warren lecture hall,05/01/2023,10:25
+scooter,532,tec café,04/19/2023,15:00
+bicycle,800,lot 703,05/02/2023,00:45
+bicycle,300,seventh college ,04/21/2023,15:30
+bicycle,250,elenore roosevelt res life,05/04/2023,12:20
+scooter,550,trolley - central campus station,05/06/2023,18:00
+bicycle,400,scholars dr south,05/07/2023,11:11
+scooter,245,geisel library,05/07/2023,18:05
+bicycle,2500,biomedical sciences - ,05/08/2023,09:30
+bicycle,900,ucsd police department,05/09/2023,10:01
+bicycle,300,ucsd police department,05/11/2023,10:58
+bicycle,299,center hall,05/10/2023,14:15
+scooter,600,rimac,05/12/2023,08:54
+scooter,-1,trolley - central campus,05/12/2023,15:22
+bicycle,250,jacobs hall,05/12/2023,19:53
+bicycle,200,1 miramar st,05/14/2023,09:00
+scooter,450,tioga hall,05/16/2023,02:30
+scooter,1800,tapestry,05/16/2023,03:30
+bicycle,300,met building,05/11/2023,22:40
+scooter,630,russell ln,05/16/2023,10:10
+scooter,300,ucsd central campus station,05/16/2023,06:15
+scooter,670,ebu ii building,05/16/2023,14:12
+bicycle,800,gilman drive,05/17/2023,04:00
+bicycle,-1,engineering building,05/17/2023,12:38
+scooter,600,gilman dr,05/18/2023,01:57
+bicycle,500,structural and materials engineering building,05/17/2023,19:30
+scooter,500,muir ln,05/17/2023,15:00
+scooter,350,warren lecture hall,05/18/2023,17:30
+bicycle,50,voigt drive,05/20/2023,16:00
+bicycle,767,la jolla del sol apartments,05/20/2023,19:51
+bicycle,350,scholars dr s,05/17/2023,21:45
+scooter,450,peterson ramp,05/21/2023,21:57
+scooter,600,international facility,05/23/2023,13:05
+scooter,800,muir ln,05/17/2023,22:29
+scooter,350,pepper canyon hall,05/24/2023,14:25
+bicycle,300,telemedicine  rack,05/25/2023,12:53
+bicycle,350,seventh college ,05/25/2023,18:29
+bicycle,-1,the bistro,05/25/2023,18:36
+bicycle,348,regents rd,05/27/2023,02:00
+scooter,-1,trolley - central campus station,05/27/2023,21:18
+bicycle,250,center hall ,05/28/2023,20:15
+bicycle,400,rita atkinson,05/28/2023,16:00
+bicycle,100,tapestry,05/28/2023,23:30
+scooter,699,peterson hall,05/30/2023,14:35
+scooter,826,sme building,05/30/2023,16:53
+bicycle,650,peterson hall,05/31/2023,00:57
+bicycle,120,innovation lane,05/16/2023,12:00
+scooter,300,regent road,05/31/2023,08:25
+bicycle,300,la jolla del sol,07/07/2021,12:21
+bicycle,550,one miramar street,07/12/2021,19:30
+scooter,500,discovery hall,07/14/2021,21:30
+bicycle,2320,ntpll - kaleidoscope,07/13/2021,06:45
+bicycle,-1,stein clinical research bldg,07/21/2021,11:14
+bicycle,300,south mesa apts,07/22/2021,07:35
+bicycle,700,biomedical research facility,07/22/2021,21:35
+bicycle,289,mesa nueva - arena,07/25/2021,00:36
+bicycle,800,la jolla del sol,07/26/2021,09:26
+bicycle,600,structural and material engineering building,07/28/2021,17:30
+bicycle,-1,ucsd police department,06/04/2021,14:24
+bicycle,425,camp snoopy,06/04/2021,12:00
+bicycle,1000,warren college - black hall,06/07/2021,21:20
+bicycle,840,nuevo  - brisa,06/06/2021,04:00
+bicycle,500,3869 miramar st,06/07/2021,23:20
+bicycle,1260,ucsd medical facility - hillcrest,06/25/2021,15:15
+bicycle,300,lot 510,06/27/2021,18:00
+bicycle,1000,3739 miramar st,12/01/2021,16:05
+bicycle,30,stein /  va hospital entrance,11/02/2021,17:41
+bicycle,800,geisel library ,11/30/2021,11:30
+bicycle,500,ebu2,12/01/2021,22:15
+bicycle,399,center hall,12/01/2021,16:50
+bicycle,120,brennan hall  cage,12/02/2021,03:30
+bicycle,-1,rita atkinson hall,12/02/2021,12:00
+bicycle,500,rita atkinson hall ,12/02/2021,10:00
+bicycle,600,rita atkinson,12/02/2021,04:30
+bicycle,500,warren brennan hall,11/29/2021,08:15
+bicycle,200,9450 gilman dr,12/03/2021,08:25
+scooter,500,douglas hall,12/03/2021,06:07
+scooter,300,central campus trolley station,12/03/2021,16:07
+bicycle,750,building 2  cage,12/04/2021,01:45
+scooter,600,central campus trolley station,12/04/2021,13:17
+scooter,600,central campus trolley station,12/04/2021,14:30
+bicycle,100,nuevo ,12/05/2021,02:42
+bicycle,900,3487 sixth college ln - ,12/05/2021,21:36
+scooter,350,scholars dr north,12/05/2021,19:12
+bicycle,450,medical teaching facility,11/23/2021,14:20
+bicycle,220,goldberg hall  locker,12/05/2021,10:27
+bicycle,700,ucsd police department,12/05/2021,08:15
+bicycle,100,geisel,12/02/2021,23:07
+scooter,400,seventh college ,12/07/2021,03:05
+bicycle,100,ucsd police department,12/07/2021,03:50
+bicycle,500,muir college,12/07/2021,08:45
+bicycle,200,1 miramar st,12/07/2021,14:35
+bicycle,700,engineering building,12/06/2021,02:00
+bicycle,950,asia hall,12/08/2021,00:27
+bicycle,259,miramar st,06/07/2021,16:55
+bicycle,200,matthews ln,12/09/2021,09:45
+bicycle,900,warren lecture hall,12/09/2021,09:45
+scooter,800,rimac,12/09/2021,19:45
+bicycle,923,rimac,12/05/2021,12:00
+bicycle,765,seventh college  #1,12/10/2021,03:45
+scooter,948,tenaya hall residence,12/10/2021,20:15
+bicycle,-1,tapestry,12/12/2021,21:00
+bicycle,400,ebu 1 south bicycle rack,12/12/2021,13:30
+bicycle,400,nuevo  - tierra,12/12/2021,01:00
+bicycle,120,structural and materials engineering bldg,12/08/2021,13:30
+bicycle,650,foodworx ,12/15/2021,15:20
+bicycle,1150,rimac,12/15/2021,16:57
+bicycle,459,mesa nueva - cala,12/16/2021,01:52
+bicycle,100,1 miramar south,12/15/2021,14:45
+bicycle,200,central mesa apts,12/15/2021,10:17
+bicycle,415,scholars dr north,11/30/2021,16:00
+bicycle,125,central mesa apts,12/15/2021,03:25
+bicycle,340,structural & material engineering bldg,12/16/2021,13:00
+bicycle,500,artesa,12/12/2021,03:30
+bicycle,299,keeling apartments,12/14/2021,00:00
+bicycle,-1,seventh college  #2,12/18/2021,22:35
+bicycle,-1,seventh college  #2,12/19/2021,00:07
+bicycle,500,one miramar street bldg 2,12/18/2021,00:00
+bicycle,349,nuevo  - capa,12/21/2021,12:45
+bicycle,500,one miramar st,12/18/2021,09:30
+bicycle,-1,one miramar st,12/22/2021,21:25
+bicycle,850,regents rd,12/18/2021,06:30
+bicycle,650,rimac -  ,12/29/2021,00:00
+bicycle,322,tioga hall,12/20/2021,17:30
+bicycle,600,tioga hall,03/02/2021,02:22
+bicycle,300,stewart hall,01/24/2021,12:10
+bicycle,440,3869 miramar street,03/05/2022,02:35
+bicycle,500,main gym,03/05/2022,19:52
+bicycle,200,atlantis hall,03/07/2021,20:30
+bicycle,800,africa hall - ellie's garden,03/12/2021,22:53
+bicycle,150,central mesa apts,03/16/2021,09:10
+bicycle,500,la jolla del sol apts,03/18/2021,09:00
+bicycle,100,the village  - ,03/11/2021,05:50
+bicycle,300,9242 central mesa apts,03/25/2021,23:39
+bicycle,150,mesa nueva - cala,03/26/2021,12:30
+bicycle,-1,seventh college  #1,03/29/2021,12:34
+bicycle,600,mesa nueva - marea,03/28/2021,07:37
+bicycle,500,nuevo  - viento,04/06/2021,13:00
+bicycle,-1,central mesa apts,04/13/2021,10:09
+bicycle,200,1 miramar parking structure,04/13/2021,05:15
+bicycle,250,one miramar st bldg 1,04/13/2021,09:07
+bicycle,950,coast apts,04/15/2021,05:15
+bicycle,460,tuolumne apartments,04/09/2021,19:57
+bicycle,500,tapestry bldg ,04/26/2021,05:27
+bicycle,592,warren lecture hall,04/30/2021,14:30
+bicycle,98,tioga hall,12/13/2020,01:47
+bicycle,75,mesa nueva - cresta,01/06/2021,10:25
+bicycle,300,matthews apartments,01/10/2021,04:30
+bicycle,450,discovery wy,01/16/2021,02:31
+bicycle,230,la jolla del sol apartments,01/17/2021,17:00
+bicycle,330,north torrey pines,01/17/2021,13:30
+scooter,300,thurgood marshall res hall,01/29/2021,15:05
+bicycle,150,rimac,01/29/2021,16:45
+bicycle,2000,ridgewalk academic building,10/01/2021,10:05
+bicycle,600,roosevelt college,10/01/2021,04:32
+bicycle,-1,peterson hall,10/01/2021,10:30
+bicycle,250,3393 lebon dr,10/02/2021,03:00
+bicycle,550,seventh college  - building 4 - parking lot,10/03/2021,01:35
+bicycle,200,meyers & gilman dr - bus stop,09/28/2021,01:37
+bicycle,900,la jolla del sol apartments,09/20/2021,03:30
+bicycle,700,pepper canyon south - parking lot,09/28/2021,05:25
+bicycle,650,keeling apartments,10/02/2021,01:27
+bicycle,300,gilman dr,10/04/2021,15:07
+bicycle,760,seventh college bldg 7,10/08/2021,04:02
+bicycle,-1,seventh college,10/09/2021,08:10
+bicycle,430,york hall,10/08/2021,04:15
+bicycle,850,erc,10/08/2021,17:45
+bicycle,700,gilman dr,10/14/2021,17:00
+bicycle,800,1 miramar street,10/18/2021,09:00
+bicycle,500,stewart hall,10/18/2021,14:00
+bicycle,250,meteor hall,10/18/2021,18:42
+bicycle,540,warren apartments,10/20/2021,07:30
+scooter,450,canyon vista,10/20/2021,00:20
+scooter,30,marshall college,10/15/2021,00:30
+bicycle,377,asia hall,10/20/2021,04:57
+bicycle,300,ucsd police department,10/22/2021,07:30
+bicycle,1100,seventh college  building 2 - ,10/24/2021,01:30
+bicycle,100,seventh college  building 6,10/25/2021,11:16
+bicycle,100,seventh college  bldg b,10/24/2021,15:15
+bicycle,600,keeling apts south tower,10/26/2021,02:40
+bicycle,240,"torrey pines, la jolla",01/26/2021,19:30
+bicycle,500,revelle college,02/03/2021,02:00
+bicycle,400,tuolumne apts,02/04/2021,12:00
+bicycle,600,warren literature bldg,02/05/2021,17:50
+bicycle,150,warren apartments,02/06/2021,21:06
+bicycle,99,one miramar,02/07/2021,09:30
+bicycle,400,camp snoopy res hall,02/07/2021,03:15
+bicycle,350,sixth college apartments,01/13/2021,02:55
+bicycle,500,1 miramar street,02/08/2021,06:15
+bicycle,850,sandford medical education building,02/09/2021,14:15
+bicycle,670,telemedicine center,02/09/2021,14:00
+bicycle,560,mesa nueva - cresta,02/11/2021,10:25
+skateboard,180,10010 n. torrey pines rd.,02/11/2021,14:07
+bicycle,-1,tioga hall,02/12/2021,23:47
+bicycle,200,earth hall,02/07/2021,06:45
+bicycle,500,del sol apts,02/15/2021,13:45
+bicycle,200,one miramar st apts,02/15/2021,04:00
+bicycle,25,8212 regents rd,02/15/2021,09:30
+bicycle,400,charles david keeling apts bldg 1,02/16/2021,22:57
+bicycle,500,ntpll - catalyst,02/13/2021,12:00
+bicycle,-1,warren mall,02/17/2021,16:24
+bicycle,200,la jolla del sol apts,02/18/2021,02:00
+bicycle,400,earth hall,02/17/2021,05:52
+bicycle,350,ntpll - kaleidoscope,02/19/2021,14:00
+bicycle,250,gilman dr,02/15/2021,19:30
+bicycle,-1,marshall apartments,02/25/2021,14:57
+bicycle,399,lower marshall apartments,02/25/2021,05:00
+bicycle,-1,price center,02/25/2021,18:40
+bicycle,150,regents rd,07/26/2021,02:30
+bicycle,1254,la jolla del sol apts,08/17/2021,00:00
+bicycle,699,nuevo  tierra,08/22/2021,22:00
+bicycle,399,marshall college,08/27/2021,08:25
+bicycle,-1,la jolla village dr,08/31/2021,16:09
+bicycle,800,pepper canyon apartments,11/01/2021,06:15
+bicycle,900,gilman dr,11/01/2021,07:30
+bicycle,20,computer sciences and engineering building,11/01/2021,22:17
+bicycle,1600,la jolla del sol apts,10/28/2021,02:30
+bicycle,599,upper marshal apts,11/02/2021,04:30
+scooter,460,sixth college apts,11/03/2021,06:15
+scooter,400,canyon vista,11/04/2021,07:00
+bicycle,500,la jolla del sol apts,11/04/2021,01:15
+bicycle,700,warren goldberg,11/04/2021,04:30
+bicycle,2000,africa hall ,11/07/2021,15:00
+bicycle,200,nuevo  - brisa,11/07/2021,15:30
+scooter,500,sequoyah hall,11/08/2021,19:30
+scooter,450,sixth college / blue bowl restaurant,11/08/2021,20:15
+scooter,800,applied physics and math bldg,11/08/2021,20:25
+bicycle,450,geisel library,11/09/2021,11:22
+scooter,268,marshall uppers apts g,11/10/2021,06:30
+scooter,360,gilman dr,11/14/2021,03:30
+scooter,950,social sciences research building,11/15/2021,19:40
+scooter,949,price center,11/15/2021,16:45
+scooter,800,7th college,11/17/2021,11:25
+bicycle,800,north america & latin america hall,11/16/2021,14:00
+bicycle,300,miramar street,11/16/2021,01:37
+bicycle,600,ucsd police department,11/18/2021,11:00
+bicycle,40,south mesa apartments,11/19/2021,10:32
+bicycle,200,geisel,11/21/2021,08:32
+bicycle,800,gilman transit center,11/20/2021,09:00
+bicycle,120,voigt dr/ matthew ln,11/21/2021,16:30
+bicycle,1200,ucsd police department,11/22/2021,12:35
+bicycle,600,geisel,11/23/2021,02:45
+bicycle,1500,prebys conrad music center,11/24/2021,14:22
+bicycle,600,pepper canyon apartments,11/22/2021,12:27
+bicycle,500,sixth lane,11/27/2021,22:10
+bicycle,400,center hall,11/26/2021,09:05
+scooter,1000,seventh college  building 3,11/28/2021,02:30
+bicycle,200,mesa nueva - cala,11/26/2021,05:45
+bicycle,600,seventh college  1,11/28/2021,14:50
+scooter,550,price center - triton statue,11/24/2021,10:05
+bicycle,500,9735 justice ln -  room,11/26/2021,09:00
+bicycle,800,blake / argo hall ,11/27/2021,00:15
+bicycle,-1, under crouton's,11/29/2021,13:10
+bicycle,800,nuevo  - piedra,11/29/2021,09:00
+bicycle,200,3967 miramar st,11/30/2021,03:50
+scooter,318,library walk,11/30/2021,16:30
+scooter,800,library walk,11/30/2021,17:35
+bicycle,500,seventh college  #3,11/27/2021,13:30
+bicycle,-1,la jolla del sol apartments,05/01/2021,10:45
+bicycle,700,discovery way,05/03/2021,01:12
+bicycle,699,catalyst parking structure,05/03/2021,02:00
+bicycle,53,1 miramar st,05/06/2021,00:02
+bicycle,850,thurgood marshall upper apts,05/14/2021,21:15
+bicycle,450,1 miramar st,05/03/2021,09:40
+bicycle,1000,muir college,05/13/2021,01:35
+bicycle,625,muir college,05/14/2021,05:50
+bicycle,1200,mesa nueva,05/19/2021,00:15
+bicycle,200,nuevo ,05/22/2021,23:25
+bicycle,500,tenaya hall,05/25/2021,06:02
+bicycle,900,biomedical library,05/26/2021,10:00
+scooter,700,ntpll - parking,05/26/2021,19:15
+bicycle,-1,moores cancer center,09/08/2021,08:00
+bicycle,550,regents rd,09/10/2021,16:45
+bicycle,800,mesa nueva - ola parking structure,09/13/2021,08:45
+bicycle,130,leichtag family foundation biomed,09/15/2021,13:30
+bicycle,50,medical teaching facility,03/13/2020,17:30
+bicycle,-1,seventh college ,09/18/2021,12:00
+bicycle,-1,osler parking structure,09/18/2021,17:47
+bicycle,400,rebecca and john moores cancer center,09/08/2021,08:17
+bicycle,54,scholars dr north,09/25/2021,01:45
+bicycle,600,nuevo  - viento,09/25/2021,16:29
+bicycle,700,mesa nueva - exchange,09/25/2021,18:00
+bicycle,700,pangea parking structure,09/28/2021,11:08
+bicycle,600,seventh college  bldg 3,09/29/2021,00:45
+bicycle,430,central mesa apts,07/10/2020,01:52
+bicycle,400,central mesa apts,07/10/2020,02:00
+bicycle,-1,central mesa apts,07/13/2020,13:28
+bicycle,-1,arbor parking structure - hillcrest,07/12/2020,19:40
+bicycle,-1,arbor parking structure - hillcrest,07/13/2020,19:35
+bicycle,100,9250 regents rd,07/15/2020,12:00
+bicycle,200,revelle apts bldg 1,07/19/2020,05:30
+bicycle,150,south mesa apts,07/24/2020,18:10
+bicycle,150,regents rd,07/28/2020,02:37
+bicycle,750,mesa nueva,07/28/2020,21:30
+bicycle,600,mesa nueva - cala,07/30/2020,15:11
+bicycle,-1,marshal college,06/01/2020,01:29
+bicycle,-1,ucsd medical facility - hillcrest,06/03/2020,17:00
+bicycle,459,miramar street,06/09/2020,12:00
+bicycle,150,serf building,06/05/2020,00:00
+bicycle,200,one miramar street,06/13/2020,16:10
+bicycle,100,school of medicine,06/18/2020,14:30
+bicycle,500,torrey pines scenic drive,06/18/2020,03:00
+bicycle,500,mesa nueva - artesa ,05/01/2020,10:22
+bicycle,1098,lebon drive,06/26/2020,02:00
+bicycle,150,del sol apartments,06/30/2020,00:50
+bicycle,200,north point lane - near trailhead,06/30/2020,11:52
+bicycle,300,central mesa apartments,06/28/2020,10:07
+bicycle,775,seventh college  bldg 8,11/22/2020,05:00
+bicycle,400,9500 gilman dr,12/09/2020,22:55
+bicycle,-1,south mesa apts,12/09/2020,22:15
+bicycle,300,scholars dr north,11/30/2020,08:45
+bicycle,-1,marshall field,12/12/2020,02:30
+bicycle,350,sixth college parking garage,12/14/2020,03:30
+bicycle,500,price center target,12/16/2020,19:32
+bicycle,350,tioga hall,12/15/2020,02:15
+bicycle,100,residence hall,12/16/2020,04:45
+bicycle,900,argo hall,12/15/2020,14:15
+bicycle,100,one miramar street,12/27/2020,15:22
+bicycle,600,the village ,02/29/2020,22:50
+bicycle,500,the village ,03/02/2020,11:00
+bicycle,129,costa verde hall,03/09/2020,08:07
+bicycle,200,center hall,03/10/2020,07:50
+bicycle,400,kneeling north tower,03/11/2020,11:30
+bicycle,800,student services center,03/12/2020,05:55
+bicycle,350,geneva hall,03/11/2020,06:25
+bicycle,300,argo hall ,03/09/2020,01:00
+scooter,400,oceanview terrace - bridge,03/12/2020,00:00
+bicycle,75,miramar st,03/12/2020,16:57
+bicycle,450,revelle administration bldg - ,02/07/2020,20:30
+bicycle,500,mesa nueva - cala,04/03/2020,16:35
+scooter,-1,canyon vista dining hall,04/04/2020,16:35
+bicycle,150,mesa nueva - artesa,04/04/2020,05:55
+bicycle,200,regents rd,04/05/2020,04:30
+bicycle,850,the village ,04/16/2020,01:35
+bicycle,-1,rebecca and john moores cancer center,04/20/2020,13:57
+bicycle,120,south mesa apartments,04/20/2020,03:00
+bicycle,200,lebon dr,04/23/2020,11:05
+bicycle,-1,uc san diego health - la jolla,04/28/2020,14:00
+bicycle,150,1 miramar st bldg 1,01/05/2020,03:15
+bicycle,-1,douglas hall,12/25/2019,00:30
+bicycle,750,matthews apts b,12/25/2019,17:20
+bicycle,-1,thurgood marshall ln/scholars dr north,01/06/2020,12:13
+scooter,550,engineering building unit 3b,01/06/2020,16:05
+bicycle,275,tioga hall,01/07/2020,16:05
+bicycle,30,lebon dr,01/07/2020,11:20
+bicycle,400,regents rd,01/09/2020,01:45
+scooter,600,sixth college apartment,01/08/2020,15:15
+bicycle,400,miramar street,01/08/2020,20:35
+bicycle,-1,muir commons,01/09/2020,14:53
+bicycle,125,revelle keeling south tower apartments,01/09/2020,11:37
+bicycle,700,engineering unit building 3a,01/08/2020,12:10
+bicycle,-1,tuolumne apts,01/09/2020,14:25
+bicycle,670,del sol apts,01/11/2020,00:50
+bicycle,850,ledden auditorium ,01/16/2020,10:10
+bicycle,300,tioga hall,01/17/2020,12:12
+bicycle,-1,mesa nueva building b,01/20/2020,14:30
+bicycle,500,atlantis hall,01/19/2020,01:20
+bicycle,65,warren goldberg,01/21/2020,19:42
+bicycle,900,64 degrees,01/22/2020,12:15
+bicycle,400,sequoyah hall,01/22/2020,18:25
+bicycle,-1,ucsd medical facility - hillcrest,01/21/2020,17:15
+bicycle,800,mesa nueva building a,01/23/2020,12:00
+bicycle,700,mesa nueva fitness facility bicycle rack,01/20/2020,18:10
+bicycle,600,miramar street,01/20/2020,18:10
+bicycle,420,beagle hall,01/25/2020,07:37
+bicycle,210,natural sciences building,01/28/2020,20:17
+scooter,59,pepper canyon hall,01/29/2020,14:17
+scooter,634,geisel library,01/30/2020,20:45
+skateboard,700,keeling apartment,01/09/2020,15:55
+bicycle,800,tioga hall,10/03/2020,01:15
+bicycle,1027,ntpll - kaleidoscope,10/03/2020,00:00
+skateboard,-1,seventh college  building 3,10/03/2020,14:39
+bicycle,225,keeling apartments building 1,10/03/2020,02:30
+bicycle,829,ntpll - tapestry,10/02/2020,07:10
+bicycle,603,sixth college - catalyst,10/05/2020,04:30
+bicycle,300,kaleidoscope res hall,10/02/2020,06:15
+bicycle,300,revelle argo,10/04/2020,07:55
+bicycle,200,ntpll - kaleidoscope,10/04/2020,06:30
+bicycle,-1,la jolla del sol,10/06/2020,12:00
+bicycle,850,tioga hall,10/05/2020,08:30
+bicycle,900,9610 scholars dr north,10/05/2020,07:10
+bicycle,1300,parking garage - catalyst bldg,10/09/2020,16:10
+bicycle,700,seventh college bldg 6,10/11/2020,05:25
+bicycle,600,scholars dr north,10/10/2020,16:42
+bicycle,150,seventh college #5,10/11/2020,18:10
+bicycle,700,center hall,06/20/2020,12:30
+bicycle,807,9321 discovery wy,10/12/2020,23:55
+bicycle,-1,9906 scholars dr north,10/12/2020,21:10
+bicycle,550,"keeling apts, bldg 3",10/13/2020,03:00
+bicycle,527,9334 redwood dr,10/13/2020,05:30
+bicycle,-1,bonner hall,10/13/2020,10:12
+bicycle,-1,argo hall,10/13/2020,07:02
+bicycle,-1,catalyst parking garage,10/03/2020,14:57
+bicycle,500,one miramar st bldg 1,10/11/2020,04:00
+bicycle,500,3391 lebon dr,09/22/2020,03:30
+bicycle,-1,ucsd police department,10/17/2020,12:36
+bicycle,800,marshall res hall,10/17/2020,18:39
+bicycle,950,north torrey pines rd,10/13/2020,11:30
+bicycle,700,galbraith hall,10/19/2020,16:30
+bicycle,3000,natural science building,10/19/2020,15:30
+bicycle,200, ,10/18/2020,16:07
+bicycle,300,scholars drive north,10/18/2020,21:15
+bicycle,-1,scholars dr north,10/25/2020,10:28
+bicycle,600,seventh college bldg 6,10/20/2020,03:00
+bicycle,500,revelle meteor hall,10/28/2020,09:12
+bicycle,630,geneva hall,10/29/2020,05:02
+bicycle,250,pines dining hall,02/02/2020,16:36
+bicycle,550,sixth college apartments,02/04/2020,10:25
+bicycle,-1,1 miramar bldg 2,02/06/2020,13:45
+bicycle,7500, campus office building,02/06/2020,10:52
+bicycle,549,tioga residence hall,02/07/2020,01:55
+bicycle,600,mesa nueva bldg a,12/22/2019,05:18
+bicycle,200,central mesa apts,02/11/2020,14:00
+bicycle,1700,sixth college apts,02/12/2020,01:22
+bicycle,900,blake hall,02/07/2020,16:00
+bicycle,150,cognitive science building,02/12/2020,20:15
+bicycle,170,biomedical science building,02/09/2020,07:17
+scooter,450,computer sciences and engineering building,02/18/2020,22:39
+bicycle,400,leichtag building,02/18/2020,15:22
+bicycle,299,hopkins dr,02/15/2020,13:45
+bicycle,-1,uc san diego health - hillcrest,02/15/2020,10:02
+bicycle,800,uc san diego campus,02/19/2020,17:20
+bicycle,30,sixth college apartments,02/19/2020,15:30
+bicycle,500,scholars dr,02/17/2020,14:35
+bicycle,400,spanos athletic training center,02/15/2020,14:00
+bicycle,420,the village ,02/16/2020,14:30
+bicycle,1200,café ventanas,02/21/2020,01:30
+bicycle,900,tuolumne apartments,02/21/2020,12:00
+bicycle,100,rita atkinson,02/21/2020,01:30
+bicycle,600,matthews apartments,02/25/2020,22:47
+scooter,200,lyman avenue,02/23/2020,00:00
+bicycle,151,price center ,08/04/2020,11:00
+bicycle,-1,central mesa apts,08/04/2020,23:16
+bicycle,-1,one miramar st bldg 2,08/09/2020,04:56
+bicycle,600,miramar street,08/10/2020,17:40
+bicycle,250,miramar street,07/23/2020,03:45
+bicycle,-1,campus point parking structure e,08/19/2020,13:45
+bicycle,400,1 miramar st,08/19/2020,07:00
+bicycle,-1, campus medical center central plant,08/20/2020,05:52
+bicycle,950,mesa nueva - arena,08/29/2020,15:00
+bicycle,-1,seventh college  #8,11/01/2020,01:22
+bicycle,600,marshal res hall,11/01/2020,05:10
+bicycle,550,village ,11/01/2020,02:22
+bicycle,-1,sulpizio cardiovascular center,11/01/2020,19:45
+bicycle,569,keeling building 3,11/03/2020,18:45
+bicycle,2149,la jolla del sol apartments,11/05/2020,02:30
+bicycle,500,mesa nueva,11/06/2020,01:30
+bicycle,-1,meteor hall,11/01/2020,18:00
+bicycle,499,canyon vista - bicycle rack,11/07/2020,00:15
+bicycle,1500,ntpll - kaleidoscope,11/14/2020,21:45
+bicycle,400,harlan hall,11/13/2020,21:30
+bicycle,370,scholars dr,11/16/2020,06:00
+bicycle,150,miramar street,11/18/2020,11:25
+bicycle,150,seventh  tower,11/17/2020,20:30
+bicycle,535,argo hall and galathea,11/17/2020,22:10
+bicycle,800,blacks hall,11/18/2020,02:55
+bicycle,-1,lot 601 - ,11/19/2020,20:25
+bicycle,-1,bates hall,11/19/2020,03:05
+bicycle,50,middle earth lounge,11/22/2020,06:00
+bicycle,420,tuolomne apts,11/19/2020,09:00
+bicycle,700,oceanview terrace,11/23/2020,02:25
+bicycle,200,argo hall / discovery hall,11/29/2020,11:20
+bicycle,450,tioga  ,11/30/2020,03:30
+bicycle,200,social sciences bldg covered parking,04/06/2020,11:40
+bicycle,1073,sixth college res hall - ,03/16/2020,13:10
+bicycle,2000,t. denny sanford medical education and telemedicine center,05/03/2020,20:44
+bicycle,500,muir biology,05/07/2020,08:37
+bicycle,799,keeling apartments,05/12/2020,01:30
+bicycle,850,applied physics and athletics,05/12/2020,15:51
+bicycle,500,tuolomne apartments,05/05/2020,14:30
+bicycle,-1,uc san diego health - la jolla,05/15/2020,01:30
+bicycle,270,biomedical research facility 2,05/16/2020,19:10
+bicycle,700,one miramar street,05/17/2020,03:45
+bicycle,700,one miramar street,05/16/2020,19:44
+bicycle,900,jacobs medical center,05/21/2020,16:40
+bicycle,900,jacobs medical center,05/21/2020,11:27
+bicycle,600,stein clinical research building - ,05/29/2020,20:00
+bicycle,850,mesa nueva - cala,08/30/2020,16:00
+bicycle,-1,ucsd medical facility - hillcrest,09/02/2020,12:25
+bicycle,2000,mesa nueva - artesa,09/03/2020,19:17
+bicycle,250,mesa nueva - cresta,09/01/2020,17:30
+bicycle,790,nuevo  - tierra,09/09/2020,05:45
+bicycle,850,nuevo  - tierra,09/09/2020,03:15
+bicycle,750,4067 miramar street,09/10/2020,04:30
+bicycle,700,mesa nueva - cala,09/06/2020,14:45
+bicycle,1550,nuevo  - tierra,09/14/2020,15:44
+bicycle,148,one miramar street,09/14/2020,11:05
+bicycle,450,mesa nueva - viento,09/15/2020,14:30
+bicycle,200,one miramar street,09/17/2020,09:30
+bicycle,150,regents road,09/17/2020,10:25
+bicycle,450,"1 miramar st, bldg 1",09/18/2020,15:30
+bicycle,1000,9388 redwood dr,09/16/2020,17:50
+bicycle,479,coast apts,09/17/2020,00:00
+bicycle,399,bonner hall,09/20/2020,17:05
+bicycle,350,la jolla del sol apts,09/22/2020,02:00
+bicycle,350,la jolla del sol apts,09/22/2020,06:30
+bicycle,200,tuolomne apartments,09/25/2020,00:20
+bicycle,2400,nuevo  - brisa,09/26/2020,01:45
+bicycle,161,kaleidoscope ,09/27/2020,09:00
+bicycle,1000,kaleidescope - ,09/25/2020,17:30
+bicycle,1200,nuevo  - tierra,09/28/2020,16:00
+bicycle,550,1 miramar st,09/24/2020,17:35
+bicycle,600,1 miramar street,09/29/2020,12:05
+bicycle,300,ucsd police department,09/29/2020,11:15
