@@ -87,7 +87,3 @@ def bicyclesVersusScooters():
   df_combined = pd.merge(df_bike_counts, df_scoot_counts, on='year_month', how ='outer')
   print(df_combined)
   return df_combined
-
-# bicyclesVersusScooters()
-# worstDay()
-# mapPlot(datetime(2019, 9, 18, 15, 30, 45), datetime(2024, 11, 18, 15, 30, 45), time(0, 00), time(23, 59),  ['bicycle'])
