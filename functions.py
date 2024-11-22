@@ -57,9 +57,7 @@ def mapPlot(start_date, end_date, start_time, end_time, types):
         lambda x: x[1] + random.uniform(-spread, spread) if x else None
     )
 
-  # print(coordinates_df_2)
   return coordinates_df_2
-  # return pd.DataFrame(np.random.randn(1000, 2) / [300, 300] + [32.8812, -117.2344], columns=["lat", "lon"])
   
 def getWorstDay():
   df = pd.read_csv('mingextract.csv')
@@ -85,5 +83,5 @@ def bicyclesVersusScooters():
   df_bike_counts = df_bike_counts.reset_index(name='Bike_Count')
   df_scoot_counts = df_scoot_counts.reset_index(name='Scooter_Count')
   df_combined = pd.merge(df_bike_counts, df_scoot_counts, on='year_month', how ='outer')
-  print(df_combined)
+  # print(df_combined)
   return df_combined

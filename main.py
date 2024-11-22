@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, time
 from functions import *
 
 # Configure the page
-st.set_page_config(page_title="Multi-Page App", page_icon="📚", layout="wide")
+st.set_page_config(page_title="UCSD Bike Theft Analyzer", page_icon="📚", layout="wide")
 
 # Sidebar navigation
 st.sidebar.title("Pages")
