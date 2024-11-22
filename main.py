@@ -21,7 +21,7 @@ pages = {
 
 # Initialize session state to remember the current page
 if "current_page" not in st.session_state:
-    st.session_state.current_page = "BicyclesVsScooters"
+    st.session_state.current_page = "Theft_Map"
 
 # Create clickable buttons for each page
 for page_name, page_display_name in pages.items():

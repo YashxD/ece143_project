@@ -14,8 +14,7 @@ def mapPlot(start_date, end_date, start_time, end_time, types):
     filtered_df = filtered_df[
                               (pd.to_datetime(filtered_df['time'], format="%H:%M").dt.time >= start_time) & (pd.to_datetime(filtered_df['time'], format="%H:%M").dt.time <= time(23,59)) |
                               (pd.to_datetime(filtered_df['time'], format="%H:%M").dt.time <= end_time) & (pd.to_datetime(filtered_df['time'], format="%H:%M").dt.time >= time(0,0))  
-                              ] # 
-    # filtered_df = filtered_df[]
+                              ]
   mapping_list = {}
   
   with open("mapping/locations.txt", 'r') as file:
@@ -38,6 +37,18 @@ def mapPlot(start_date, end_date, start_time, end_time, types):
   spread = 0.0002
   
   if not coordinates_df_2.empty:
+    
+    min_lat, max_lat = 32.846263, 32.897726
+    min_lon, max_lon = -117.270637, -117.184645
+    
+    # Filter the DataFrame to include only points within the boundaries
+    coordinates_df_2 = coordinates_df_2[
+        (coordinates_df_2['coordinates'].apply(lambda x: x[0] if x else None) >= min_lat) &
+        (coordinates_df_2['coordinates'].apply(lambda x: x[0] if x else None) <= max_lat) &
+        (coordinates_df_2['coordinates'].apply(lambda x: x[1] if x else None) >= min_lon) &
+        (coordinates_df_2['coordinates'].apply(lambda x: x[1] if x else None) <= max_lon)
+    ]
+    
     # Add unique random noise to 'lat' and 'lon' using apply
     coordinates_df_2['lat'] = coordinates_df_2['coordinates'].apply(
         lambda x: x[0] + random.uniform(-spread, spread) if x else None
@@ -46,7 +57,7 @@ def mapPlot(start_date, end_date, start_time, end_time, types):
         lambda x: x[1] + random.uniform(-spread, spread) if x else None
     )
 
-  print(coordinates_df_2)
+  # print(coordinates_df_2)
   return coordinates_df_2
   # return pd.DataFrame(np.random.randn(1000, 2) / [300, 300] + [32.8812, -117.2344], columns=["lat", "lon"])
   
