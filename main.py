@@ -13,15 +13,15 @@ st.sidebar.title("Pages")
 # Define available pages
 pages = {
     "Theft_Map": "Theft Map",
-    "PricevsTOD": "Price Versus Time of Day",
-    "WeathervsTheft": "Weather Versus Theft",
-    "BicyclesVsScooters" : "Bicycles Versus Scooters",
-    "Worstday" : " Who had the worst day?"
+    "HoursVsTypes": "Hours Vs Bicycles and Scooters",
+    "BicyclesVsScooters" : "Time Vs Bicycles and Scooters",
+    "Worstday" : " Who had the worst day?",
+    "WeathervsTheft": "Weather Versus Theft"
 }
 
 # Initialize session state to remember the current page
 if "current_page" not in st.session_state:
-    st.session_state.current_page = "Theft_Map"
+    st.session_state.current_page = "HoursVsTypes"
 
 # Create clickable buttons for each page
 for page_name, page_display_name in pages.items():
@@ -46,20 +46,21 @@ if selected_page == "Theft_Map":
     st.map(coordinates, size=3, height=700)
     
 
-elif selected_page == "PricevsTOD":
-    st.title("Map Page")
-    st.write("Here is where you can view the map.")
-    # Add code to display your map, e.g., using Folium or Pydeck
+elif selected_page == "HoursVsTypes":
+    df = pd.read_csv("time_type_proportions.csv")
+    df['start'] = df['time_range'].str.extract(r'\[(\d+)')[0].astype(int)
+    df_sorted = df.sort_values(by='start').drop(columns='start')
+    st.bar_chart(df, x = 'start', x_label= 'Hour of Day', y_label = 'Percent Thefts', y = ['bicycle', 'scooter'] ,horizontal=False)
+
 
 elif selected_page == "WeathervsTheft":
     st.title("Data Analysis Page")
     st.write("Analyze your data here.")
-    # Add code for data analysis features, e.g., charts or tables
-    
+
 elif selected_page == "BicyclesVsScooters":
     result = bicyclesVersusScooters()
     st.bar_chart(result, height = 1000, x='year_month', y=['Bike_Count', 'Scooter_Count'], x_label='Year - Month', y_label='# of Thefts', color = ['#FF0000', '#0000FF'])
-    pass
+    
 elif selected_page == "Worstday":
     result = getWorstDay()
     st.title("Think you are having a bad day?")
