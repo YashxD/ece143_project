@@ -21,7 +21,7 @@ pages = {
 
 # Initialize session state to remember the current page
 if "current_page" not in st.session_state:
-    st.session_state.current_page = "HoursVsTypes"
+    st.session_state.current_page = "Theft_Map"
 
 # Create clickable buttons for each page
 for page_name, page_display_name in pages.items():
@@ -50,7 +50,7 @@ elif selected_page == "HoursVsTypes":
     df = pd.read_csv("time_type_proportions.csv")
     df['start'] = df['time_range'].str.extract(r'\[(\d+)')[0].astype(int)
     df_sorted = df.sort_values(by='start').drop(columns='start')
-    st.bar_chart(df, x = 'start', x_label= 'Hour of Day', y_label = 'Percent Thefts', y = ['bicycle', 'scooter'] ,horizontal=False)
+    st.bar_chart(df, x = 'start', x_label= 'Hour of Day', y_label = 'Percent Thefts', y = ['bicycle', 'scooter'] ,horizontal=False, height=700)
 
 
 elif selected_page == "WeathervsTheft":
