@@ -15,8 +15,7 @@ pages = {
     "Theft_Map": "Theft Map",
     "HoursVsTypes": "Hours Vs Bicycles and Scooters",
     "BicyclesVsScooters" : "Time Vs Bicycles and Scooters",
-    "Worstday" : " Who had the worst day?",
-    "WeathervsTheft": "Weather Versus Theft"
+    "Worstday" : " Who had the worst day?"
 }
 
 # Initialize session state to remember the current page
@@ -40,7 +39,7 @@ if selected_page == "Theft_Map":
     FromTOD = st.slider('From (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(0,0)))
     ToTOD = st.slider('To (Time of day)', min_value=time(0,0), max_value=time(23,59), value = (time(23,59)))
     options = ['bicycle', 'scooter', 'skateboard']
-    selected_options = st.multiselect('Type of Vehicle:', options)
+    selected_options = st.multiselect('Type of Vehicle:', options, default = options)
     coordinates = mapPlot(dateRange[0], dateRange[1], FromTOD, ToTOD,  selected_options)
     st.write(f"Number of mappable thefts: {len(coordinates)}")
     st.map(coordinates, size=3, height=700)
@@ -51,12 +50,7 @@ elif selected_page == "HoursVsTypes":
     df['start'] = df['time_range'].str.extract(r'\[(\d+)')[0].astype(int)
     df_sorted = df.sort_values(by='start').drop(columns='start')
     st.bar_chart(df, x = 'start', x_label= 'Hour of Day', y_label = 'Percent Thefts', y = ['bicycle', 'scooter'] ,horizontal=False, height=700)
-
-
-elif selected_page == "WeathervsTheft":
-    st.title("Data Analysis Page")
-    st.write("Analyze your data here.")
-
+    
 elif selected_page == "BicyclesVsScooters":
     result = bicyclesVersusScooters()
     st.bar_chart(result, height = 1000, x='year_month', y=['Bike_Count', 'Scooter_Count'], x_label='Year - Month', y_label='# of Thefts', color = ['#FF0000', '#0000FF'])
