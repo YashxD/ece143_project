@@ -6,7 +6,7 @@
 To run the application locally using Streamlit, execute the following command:
 ```bash
 streamlit run main.py
-
+```
 
 ###  Brief Overview of Files
 
