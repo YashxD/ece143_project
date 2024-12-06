@@ -1,3 +1,7 @@
+"""
+Main.py file, used by Streamlit to host our application on https://ece143project.streamlit.app/
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
