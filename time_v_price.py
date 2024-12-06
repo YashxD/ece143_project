@@ -1,6 +1,9 @@
 import pandas as pd
 
 def time_v_price():
+    '''
+    Get the time vs price distribution for the data stored in a pre-determined CSV file.
+    '''
     df = pd.read_csv('mingextract.csv')
     # df = df[['time', 'price']]
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
@@ -15,5 +18,3 @@ def time_v_price():
     
     avg_time_dict = {h: time_dict[h].mean() for h in time_dict}
     print(avg_time_dict)
-
-time_v_price()
