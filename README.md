@@ -36,6 +36,14 @@ streamlit run main.py
 
 ### Brief Overview of Datasets
 
+- **mingextract.csv**: This file contains the extracted crime data.
+
+- **mingextract_with_weather.csv**: This file contains the extracted crime data + the weather (temperature and precipitation) data at UCSD for the date and time of the crime.
+- 
+- **random_weather_data.csv**: This file contains the weather data at UCSD for random timestamps.
+-
+- **time_type_proportions.csv**: This file contains the proportions of different classes of stolen items accross different time periods in the day.
+
 ###  Brief Overview of Files
 
 
