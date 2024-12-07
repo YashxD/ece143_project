@@ -18,9 +18,9 @@ Our project is hosted on [Streamlit](https://ece143project.streamlit.app/). It i
 
 **Our Team**
 - Mingwei Yeoh ()
-- Parjanya Prashant ()
+- Parjanya Prashant (A15778224)
 - Pranav Raj (A59026510)
-- Wendeng Wang ()
+- Wendeng Wang (A69036364)
 - Yash Jain (A59026285)
 
 ---
@@ -34,13 +34,19 @@ streamlit run main.py
 
 ---
 
+### Brief Overview of Datasets
+
 ###  Brief Overview of Files
+
+
 
 - **main.py**: This file contains the code responsible for rendering the front end. When needed, it calls functions from **functions.py** to process data and generate a pandas DataFrame for front-end display.
 
 - **functions.py**: This file contains utility functions used by **main.py** to process and manipulate data, including generating data frames for graphing.
 
 - **analysis.ipynb**: This jupyter notebook contains the code we used to analyse the dataset and generate relevant presentation graphs.
+
+- **analysis.ipynb**: This jupyter notebook contains the code we used to analyse the dataset and generate relevant presentation graphs for the weather data.
 
 - **/PDFExtraction**: This folder contains the scripts for extracting data from the PDF files in **/Resources**. The extracted data is stored in a CSV file. This process only needs to be run once to populate the dataset.
 
