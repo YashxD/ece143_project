@@ -19,7 +19,7 @@ Our project is hosted on [Streamlit](https://ece143project.streamlit.app/). It i
 **Our Team**
 - Mingwei Yeoh ()
 - Parjanya Prashant ()
-- Pranav Raj ()
+- Pranav Raj (A59026510)
 - Wendeng Wang ()
 - Yash Jain (A59026285)
 
