@@ -60,5 +60,5 @@ streamlit run main.py
 
 - **/classifier**: This folder has the code to implement a Random-forest classifier to generate a predicted heatmap of thefts.
 
-- **get_weather.py**: Obtaines weather data (temperature and precipitation) at UCSD for the timestamps of crimes.
+- **weather/get_weather.py**: Obtaines weather data (temperature and precipitation) at UCSD for the timestamps of crimes.
 
