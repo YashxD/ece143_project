@@ -26,11 +26,12 @@ Our project is hosted on [Streamlit](https://ece143project.streamlit.app/). It i
 ---
 
 **Requirements**
-python>=3.9
-pandas==2.2.0
-numpy==1.26.4
-requests==2.31.0
-tqdm==4.66.2
+
+- python>=3.9
+- pandas==2.2.0
+- numpy==1.26.4
+- requests==2.31.0
+- tqdm==4.66.2
 
 ---
 
