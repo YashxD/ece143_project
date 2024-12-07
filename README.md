@@ -32,6 +32,10 @@ Our project is hosted on [Streamlit](https://ece143project.streamlit.app/). It i
 - numpy==1.26.4
 - requests==2.31.0
 - tqdm==4.66.2
+- folium==0.15.1
+- scikit-learn==1.4.0
+- googlemaps==4.10.0
+- streamlit==1.31.0
 
 ---
 
