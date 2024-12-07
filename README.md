@@ -39,9 +39,9 @@ streamlit run main.py
 - **mingextract.csv**: This file contains the extracted crime data.
 
 - **mingextract_with_weather.csv**: This file contains the extracted crime data + the weather (temperature and precipitation) data at UCSD for the date and time of the crime.
-- 
+
 - **random_weather_data.csv**: This file contains the weather data at UCSD for random timestamps.
--
+
 - **time_type_proportions.csv**: This file contains the proportions of different classes of stolen items accross different time periods in the day.
 
 ###  Brief Overview of Files
@@ -59,3 +59,6 @@ streamlit run main.py
 - **/PDFExtraction**: This folder contains the scripts for extracting data from the PDF files in **/Resources**. The extracted data is stored in a CSV file. This process only needs to be run once to populate the dataset.
 
 - **/classifier**: This folder has the code to implement a Random-forest classifier to generate a predicted heatmap of thefts.
+
+- **get_weather.py**: Obtaines weather data (temperature and precipitation) at UCSD for the timestamps of crimes.
+
