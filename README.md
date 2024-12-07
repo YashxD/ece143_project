@@ -54,7 +54,7 @@ streamlit run main.py
 
 - **analysis.ipynb**: This jupyter notebook contains the code we used to analyse the dataset and generate relevant presentation graphs.
 
-- **analysis.ipynb**: This jupyter notebook contains the code we used to analyse the dataset and generate relevant presentation graphs for the weather data.
+- **weather_analysis.ipynb**: This jupyter notebook contains the code we used to analyse the dataset and generate relevant presentation graphs for the weather data.
 
 - **/PDFExtraction**: This folder contains the scripts for extracting data from the PDF files in **/Resources**. The extracted data is stored in a CSV file. This process only needs to be run once to populate the dataset.
 
