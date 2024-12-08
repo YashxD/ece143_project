@@ -36,7 +36,7 @@ Our project is hosted on [Streamlit](https://ece143project.streamlit.app/). It i
 - scikit-learn==1.4.0
 - googlemaps==4.10.0
 - streamlit==1.31.0
-
+- pdfplumber==0.11.4
 ---
 
 ### Running Streamlit Locally
