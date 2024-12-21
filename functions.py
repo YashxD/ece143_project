@@ -15,7 +15,7 @@ def mapPlot(start_date, end_date, start_time, end_time, types):
 
     @returns    List of all the coordinates to be plotted.
     """
-    df = pd.read_csv('data/mingextract.csv')
+    df = pd.read_csv('mingextract.csv')
     filtered_df = df[df['type'].isin(types)] # filtered by type of vehicle
   
     filtered_df = filtered_df[(pd.to_datetime(filtered_df['date'])>= start_date) & (pd.to_datetime(filtered_df['date']) <= end_date)] # filtered by date
@@ -76,7 +76,7 @@ def getWorstDay():
 
     @returns    Details for the highest reported loss incident.
     """
-    df = pd.read_csv('data/mingextract.csv')
+    df = pd.read_csv('mingextract.csv')
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
     max_price_row = df.loc[df['price'].idxmax()]
     return max_price_row
@@ -87,7 +87,7 @@ def bicyclesVersusScooters():
 
     @returns DataFrame containing of the requested data.
     """
-    df = pd.read_csv('data/mingextract.csv')
+    df = pd.read_csv('mingextract.csv')
     df_bike = df[df['type'] == 'bicycle']
     df_bike = df_bike.copy()
     df_scoot = df[df['type'] == 'scooter']
