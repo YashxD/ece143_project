@@ -50,7 +50,7 @@ if selected_page == "Theft_Map":
     
 
 elif selected_page == "HoursVsTypes":
-    df = pd.read_csv("time_type_proportions.csv")
+    df = pd.read_csv("data/time_type_proportions.csv")
     df['start'] = df['time_range'].str.extract(r'\[(\d+)')[0].astype(int)
     df_sorted = df.sort_values(by='start').drop(columns='start')
     st.bar_chart(df, x = 'start', x_label= 'Hour of Day', y_label = 'Percent Thefts', y = ['bicycle', 'scooter'] ,horizontal=False, height=700)
